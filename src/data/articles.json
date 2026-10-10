@@ -1,0 +1,257 @@
+{
+  "source": {
+    "key": "newslivesa-site",
+    "label": "Newslive SA (website)",
+    "channel": "https://newslivesa.co.za",
+    "api": "https://newslivesa.co.za/wp-json/wp/v2",
+    "blurb": "Written reporting from the same publisher as the video record. Small but factual, and the only source here that settles the criminal-track facts titles cannot carry."
+  },
+  "scrapedAt": "2026-10-07T19:47:22.804Z",
+  "articles": [
+    {
+      "articleId": 1025,
+      "date": "2026-09-22",
+      "publishedAt": "2026-09-22T15:13:42",
+      "title": "Rape case against Shadrack Sibiya postponed to 29 September",
+      "excerpt": "The rape case against suspended Deputy National Commissioner Shadrack Sibiya has been postponed to 29 September 2026. Suspended Deputy National Commissioner Lieutenant-General Shadrack Sibiya appeared in the Randburg Magistrate’s Court in Johannesburg on Tuesday facing five serious charges, including rape, trafficking in persons and sexual grooming of a child. Sibiya was arrested on Monday night […]",
+      "url": "https://newslivesa.co.za/rape-case-against-shadrack-sibiya-postponed-to-29-september/",
+      "source": "newslivesa-site",
+      "terms": [
+        "madlanga",
+        "sibiya"
+      ]
+    },
+    {
+      "articleId": 1008,
+      "date": "2026-09-22",
+      "publishedAt": "2026-09-22T09:59:26",
+      "title": "Brown Mogotsi's 4th Bail Bid Fails – State Says He Planned To Escape In Warder Uniform",
+      "excerpt": "Brown Mogotsi will remain in custody after the Johannesburg Magistrates' Court denied him bail for the fourth time. Mogotsi, 45, appeared on Tuesday for his fourth bail application on what his defence said were \"new facts.\" The State opposed his release State Advocate Thami Mpekana told the court that Mogotsi allegedly planned to escape from […]",
+      "url": "https://newslivesa.co.za/brown-mogotsis-4th-bail-bid-fails-state-says-he-planned-to-escape-in-warder-uniform/",
+      "source": "newslivesa-site",
+      "terms": [
+        "mogotsi"
+      ]
+    },
+    {
+      "articleId": 1014,
+      "date": "2026-09-22",
+      "publishedAt": "2026-09-22T11:12:44",
+      "title": "Masemola Cleared As Court Withdraws R360m Tender Charges",
+      "excerpt": "The National Director of Public Prosecutions, Advocate Andy Mothibi, ordered the charges withdrawn after a review found no reasonable prospects of a successful prosecution. Masemola had faced charges under the Public Finance Management Act over alleged inadequate oversight of a controversial multimillion-rand SAPS healthcare contract.The charges were formally withdrawn by the Pretoria Magistrates Court this […]",
+      "url": "https://newslivesa.co.za/masemola-cleared-as-court-withdraws-r360m-tender-charges/",
+      "source": "newslivesa-site",
+      "terms": [
+        "masemola"
+      ]
+    },
+    {
+      "articleId": 960,
+      "date": "2026-09-18",
+      "publishedAt": "2026-09-18T08:23:35",
+      "title": "Justice Madlanga Denies Rumours His Joke Targeted Dr Lebeya",
+      "excerpt": "Commission Chairperson Justice Mbuyiseli Madlanga has dismissed speculation that a joke he made was directed at Dr Lebeya. \"Before we start I just want to clear up something. It has been brought to my attention that there's speculation out there about something I did yesterday,\" Madlanga said. \"Yesterday I joked with Dr. Mpahlwa and I […]",
+      "url": "https://newslivesa.co.za/justice-madlanga-denies-rumours-his-joke-targeted-dr-lebeya/",
+      "source": "newslivesa-site",
+      "terms": [
+        "madlanga"
+      ]
+    },
+    {
+      "articleId": 909,
+      "date": "2026-09-17",
+      "publishedAt": "2026-09-17T15:07:14",
+      "title": "Madlanga addressed the commission’s 1 year anniversary",
+      "excerpt": "Retired Constitutional Court Justice Mbuyiseli Madlanga briefly paused proceedings today to mark the one-year anniversary of the Madlanga Commission of Inquiry. The public hearings of the commission began on 17 September 2025. Justice Madlanga acknowledged KwaZulu-Natal Police Commissioner Lieutenant-General Nhlanhla Mkhwanazi, who was the first witness to take the stand when the hearings commenced a […]",
+      "url": "https://newslivesa.co.za/madlanga-addressed-the-commissions-1-year-anniversary/",
+      "source": "newslivesa-site",
+      "terms": [
+        "madlanga",
+        "mkhwanazi"
+      ]
+    },
+    {
+      "articleId": 881,
+      "date": "2026-08-30",
+      "publishedAt": "2026-08-30T15:53:09",
+      "title": "Madlanga Denies In-Camera Bid: Lt Col Deenadayalan Govender to Testify in Open Hearing",
+      "excerpt": "Madlanga Denies In-Camera Bid: Lt Col Deenadayalan Govender to Testify in Open Hearing",
+      "url": "https://newslivesa.co.za/madlanga-denies-in-camera-bid-lt-col-deenadayalan-govender-to-testify-in-open-hearing/",
+      "source": "newslivesa-site",
+      "terms": [
+        "madlanga"
+      ]
+    },
+    {
+      "articleId": 841,
+      "date": "2025-11-14",
+      "publishedAt": "2025-11-14T09:14:11",
+      "title": "Lieutenant Colonel Kelebogile Breaks Down at Madlanga Commission",
+      "excerpt": "Lieutenant Colonel Kelebogile Thepa grew emotional at the Madlanga Commission as she recalled a July 2023 attack: seated in her vehicle with a neighbor, three men approached, one pointed a firearm at her and demanded she switch off the engine, another pressed a gun to her neck… pic.twitter.com/f0uD1nEvQY &mdash; News Live SA (@newslivesa) November 14, […]",
+      "url": "https://newslivesa.co.za/lieutenant-colonel-kelebogile-breaks-down-at-madlanga-commission/",
+      "source": "newslivesa-site",
+      "terms": [
+        "madlanga"
+      ]
+    },
+    {
+      "articleId": 837,
+      "date": "2025-11-13",
+      "publishedAt": "2025-11-13T14:57:23",
+      "title": "EFF Launches Perjury Case Against Cedrick Nkabinde Over Ad Hoc Committee Testimony",
+      "excerpt": "Cape Town, November 13, 2025 – The Economic Freedom Fighters (EFF) announced that its Deputy Secretary General, Leigh-Ann Mathys, will formally open a perjury case against Cedrick Nkabinde, Chief of Staff to Police Minister Senzo Mchunu. The action targets Nkabinde's allegedly deceptive testimony before a parliamentary Ad Hoc Committee, which the EFF says directly caused […]",
+      "url": "https://newslivesa.co.za/eff-launches-perjury-case-against-cedrick-nkabinde-over-ad-hoc-committee-testimony/",
+      "source": "newslivesa-site",
+      "terms": [
+        "mchunu",
+        "ad hoc committee"
+      ]
+    },
+    {
+      "articleId": 816,
+      "date": "2025-11-08",
+      "publishedAt": "2025-11-08T18:59:26",
+      "title": "ANC Confirms Senzo Mchunu Steps Aside from Party Duties Following Phone Seizure",
+      "excerpt": "Johannesburg, 8 November 2025 – The African National Congress (ANC) on Saturday confirmed that Police Minister Senzo Mchunu has stepped aside from organizational work within the party, a move that follows the recent seizure of his phones as part of an ongoing investigation. In a statement issued by National Spokesperson Mahlengi Bhengu, the ANC said […]",
+      "url": "https://newslivesa.co.za/anc-confirms-senzo-mchunu-steps-aside-from-party/",
+      "source": "newslivesa-site",
+      "terms": [
+        "madlanga",
+        "mchunu"
+      ]
+    },
+    {
+      "articleId": 800,
+      "date": "2025-11-07",
+      "publishedAt": "2025-11-07T13:40:15",
+      "title": "Julius Malema Compares IDAC Head Adv. Andrea Johnson to Winnie Mandela",
+      "excerpt": "Julius Malema Compares IDAC Head Adv. Andrea Johnson to Winnie Mandela in Ad Hoc Committee Testimony, Drawing Johannesburg, November 7, 2025 – Economic Freedom Fighters (EFF) leader Julius Malema sparked a firestorm of controversy during Thursday's parliamentary Ad Hoc Committee hearing on corruption in the criminal justice system, when he likened the head of the […]",
+      "url": "https://newslivesa.co.za/julius-malema-compares-idac-head-adv-andrea-johnson-to-winnie-mandela/",
+      "source": "newslivesa-site",
+      "terms": [
+        "mkhwanazi",
+        "matlala",
+        "ad hoc committee",
+        "idac"
+      ]
+    },
+    {
+      "articleId": 793,
+      "date": "2025-11-07",
+      "publishedAt": "2025-11-07T09:45:39",
+      "title": "No Court Appearance for Gigaba as IDAC Confirms Ongoing Engagement",
+      "excerpt": "Pretoria, South Africa – The Investigating Directorate against Corruption (IDAC) has announced that former Cabinet minister Dr. Malusi Gigaba will not face court proceedings today, as authorities continue discussions with him regarding allegations of procurement irregularities. Gigaba, a current Member of Parliament and co-chair of the Joint Standing Committee on Defence, arrived at the IDAC […]",
+      "url": "https://newslivesa.co.za/no-court-appearance-for-gigaba-as-idac-confirms-ongoing-engagement/",
+      "source": "newslivesa-site",
+      "terms": [
+        "idac"
+      ]
+    },
+    {
+      "articleId": 765,
+      "date": "2025-11-05",
+      "publishedAt": "2025-11-05T14:52:04",
+      "title": "Hawks Seize Digital Devices from Brown Mogotsi",
+      "excerpt": "Hawks Seize Digital Devices from Controversial Businessman Brown Mogotsi Amid Corruption Probe and Shooting Investigation Johannesburg, South Africa – November 5, 2025 – South African police on Wednesday executed a long-pending search warrant, seizing electronic devices from controversial North West businessman Brown Mogotsi as part of an ongoing investigation into allegations of corruption, fraud, and […]",
+      "url": "https://newslivesa.co.za/hawks-seize-digital-devices-from-brown-mogotsi/",
+      "source": "newslivesa-site",
+      "terms": [
+        "madlanga",
+        "mkhwanazi",
+        "matlala",
+        "mogotsi",
+        "mchunu",
+        "ad hoc committee"
+      ]
+    },
+    {
+      "articleId": 744,
+      "date": "2025-11-03",
+      "publishedAt": "2025-11-03T19:08:55",
+      "title": "Gen. Nhlanhla Khumalo Set to Resume Testimony at the Madlanga Commission",
+      "excerpt": "The Madlanga Commission will continue its hearings on Tuesday, with Lieutenant General Dumisani Khumalo, SAPS Divisional Commissioner for Crime Intelligence, returning to the witness stand. Khumalo’s appearance resumes after his testimony was postponed on 1 October 2025 due to illness. Commission sources confirmed the general has recovered and is ready to proceed. Proceedings will begin […]",
+      "url": "https://newslivesa.co.za/gen-nhlanhla-khumalo-set-to-resume-testimony-at-the-madlanga-commission/",
+      "source": "newslivesa-site",
+      "terms": [
+        "madlanga"
+      ]
+    },
+    {
+      "articleId": 732,
+      "date": "2025-11-03",
+      "publishedAt": "2025-11-03T15:36:10",
+      "title": "Warrant Officer Sabelo Nkosi Slams Captain Kruger \"He didn't have balls\"",
+      "excerpt": "Warrant Officer Sabelo Nkosi has leveled scathing criticism at Hawks Captain Barry Kruger, testifying that he lacked the courage to stand up for himself during a contentious operation in December. Nkosi told the Madlanga Commission of Inquiry that Kruger was redirected from a critical operation to \"verify\" police presence at Katiso \"KT\" Molefe's residence, a […]",
+      "url": "https://newslivesa.co.za/warrant-officer-sabelo-nkosi-slams-captain-kruger-he-didnt-have-balls/",
+      "source": "newslivesa-site",
+      "terms": [
+        "madlanga"
+      ]
+    },
+    {
+      "articleId": 679,
+      "date": "2025-11-01",
+      "publishedAt": "2025-11-01T14:40:37",
+      "title": "Bushiri Accuses General Sibiya of Bribery Scandal",
+      "excerpt": "self-proclaimed prophet Shepherd Bushiri has alleged that South Africa's Hawks attempted to solicit a bribe to make his fraud case vanish. Bushiri claims a Hawks officer, Captain Paul, approached his team, hinting that General Sibaya could halt the case for \"something\" in return. Bushiri made the claim in a public statement, saying, \"We were also […]",
+      "url": "https://newslivesa.co.za/bushiri-accuses-general-sibiya-of-bribery-scandal/",
+      "source": "newslivesa-site",
+      "terms": [
+        "sibiya"
+      ]
+    },
+    {
+      "articleId": 588,
+      "date": "2025-10-31",
+      "publishedAt": "2025-10-31T14:04:07",
+      "title": "Matlala paid R150,000 for failed hit on ex-girlfriend Tebogo Thobejane",
+      "excerpt": "Testimony before the Madlanga Commission has disclosed that suspected criminal Vusimuzi “Cat” Matlala is said to have handed over R150,000 in connection with an unsuccessful bid to assassinate his former partner, actress Tebogo Thobejane. The incident in 2023 resulted in injuries to Thobejane and left another woman permanently paralysed. On 30 October 2025, Witness C […]",
+      "url": "https://newslivesa.co.za/matlala-paid-r150000-for-failed-hit-on-ex-girlfriend-tebogo-thobejane/",
+      "source": "newslivesa-site",
+      "terms": [
+        "madlanga",
+        "matlala"
+      ]
+    },
+    {
+      "articleId": 578,
+      "date": "2025-10-31",
+      "publishedAt": "2025-10-31T13:36:40",
+      "title": "Fadiel Adams files criminal case against Masemola over alleged nepotism",
+      "excerpt": "Fadiel Adams, leader of the National Coloured Congress (NCC), has laid a criminal complaint against National Police Commissioner Fannie Masemola, accusing him of rampant nepotism and turning the South African Police Service (SAPS) into an \"employment agency for families\". Adams claims to have evidence that Masemola employed at least six relatives and friends, including an […]",
+      "url": "https://newslivesa.co.za/fadiel-adams-files-criminal-case-against-masemola-over-alleged-nepotism/",
+      "source": "newslivesa-site",
+      "terms": [
+        "madlanga",
+        "mkhwanazi",
+        "masemola",
+        "ad hoc committee"
+      ]
+    },
+    {
+      "articleId": 470,
+      "date": "2025-10-27",
+      "publishedAt": "2025-10-27T21:43:46",
+      "title": "Cassel Mathale will appear before the Ad Hoc committee",
+      "excerpt": "Deputy Minister of Police Cassel Mathale will appear before the Ad Hoc committee tasked with investigating allegations made by General Nhlanhla Mkhwanazi on Tuesday and Wednesday",
+      "url": "https://newslivesa.co.za/cassel-mathale-will-appear-before-the-ad-hoc-committee/",
+      "source": "newslivesa-site",
+      "terms": [
+        "mkhwanazi",
+        "ad hoc committee"
+      ]
+    },
+    {
+      "articleId": 460,
+      "date": "2025-10-27",
+      "publishedAt": "2025-10-27T20:55:12",
+      "title": "Vusimuzi Matlala denied bail",
+      "excerpt": "Alleged crime boss and businessman Vusimuzi ‘Cat’ Matlala remains behind bars.The High Court in Johannesburg denied his bail application on Monday morning The businessman faces an attempted murder charge and was earlier denied bail in the Alexandra magistrate’s court. The court said he was a danger to society and might interfere with state witnesses should […]",
+      "url": "https://newslivesa.co.za/vusimuzi-matlala-denied-bail/",
+      "source": "newslivesa-site",
+      "terms": [
+        "matlala"
+      ]
+    }
+  ]
+}

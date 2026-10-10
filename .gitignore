@@ -1,0 +1,28 @@
+# dependencies / build output
+node_modules/
+dist/
+
+# Local environment
+.env
+.env.*
+*.local
+
+# ---------------------------------------------------------------------------
+# Source material is NOT committed.
+#
+# The commission's daily records are public documents, but this project is a
+# finding aid for them, not a mirror of them. The app ships the compact index
+# (src/data/transcripts.json: dates, counts, and short locating snippets) and
+# links back to the official source. The full text — 24 MB of verbatim record —
+# stays local and is regenerated with `npm run ingest-transcripts`.
+#
+# This also keeps the repo light and avoids a public copy of someone else's
+# primary records drifting out of date with the originals.
+# ---------------------------------------------------------------------------
+public/transcripts/
+transcripts/incoming/
+transcripts/catalogue.json
+
+# Scratch
+.datecheck
+*.bak

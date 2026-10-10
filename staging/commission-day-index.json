@@ -1,0 +1,1300 @@
+{
+  "source": "https://criminaljusticecommission.org.za/hearings",
+  "capturedAt": "2026-10-07",
+  "note": "Official sitting-day index as published by the commission. 182 days, 2025-09-17 to 2026-10-06. 173 carry witness attribution; 402 materials in total across all days. Witness/evidenceLeader strings are reproduced as published, including their typos. Material TYPES were not captured in this scrape - only counts. Days 6, 14 and 56 were confirmed by hand from the site and carry types/transcript flags; the rest do not, so a materials count above zero does NOT imply a transcript exists.",
+  "days": [
+    {
+      "day": 182,
+      "date": "2026-10-06",
+      "materials": 0,
+      "witness": null,
+      "evidenceLeader": null
+    },
+    {
+      "day": 181,
+      "date": "2026-09-30",
+      "materials": 2,
+      "witness": "Mr Joe Sibanyoni.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 180,
+      "date": "2026-09-29",
+      "materials": 2,
+      "witness": "Mr Joe Sibanyoni.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 179,
+      "date": "2026-09-28",
+      "materials": 2,
+      "witness": "Mr Sindane.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 178,
+      "date": "2026-09-23",
+      "materials": 1,
+      "witness": "Mr Sindane.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 177,
+      "date": "2026-09-21",
+      "materials": 1,
+      "witness": "Mr Madoda Johannes Sibanyoni.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 176,
+      "date": "2026-09-18",
+      "materials": 2,
+      "witness": "Professor Somadoda Fikeni.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 175,
+      "date": "2026-09-17",
+      "materials": 1,
+      "witness": "Makgothi Samuel Thobakgale.",
+      "evidenceLeader": "Adv Sikhakhane."
+    },
+    {
+      "day": 174,
+      "date": "2026-09-16",
+      "materials": 2,
+      "witness": "Ms Pop.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 173,
+      "date": "2026-09-15",
+      "materials": 2,
+      "witness": "Sergeant Rico Eddie Van Wyk.",
+      "evidenceLeader": "Adv Pooe."
+    },
+    {
+      "day": 172,
+      "date": "2026-09-02",
+      "materials": 2,
+      "witness": "Dr Mark Shaw.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 171,
+      "date": "2026-09-01",
+      "materials": 2,
+      "witness": "General Lebeya.",
+      "evidenceLeader": "Adv Segeels-Ncube & Adv Pooe."
+    },
+    {
+      "day": 170,
+      "date": "2026-08-31",
+      "materials": 2,
+      "witness": "Lt-Col Govender.",
+      "evidenceLeader": "Adv Mosikili & Adv Chaskalson SC."
+    },
+    {
+      "day": 169,
+      "date": "2026-08-28",
+      "materials": 2,
+      "witness": "Mr. Madoda Johannes Sibanyoni.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 168,
+      "date": "2026-08-27",
+      "materials": 2,
+      "witness": "Gen Godfrey Lebeya.",
+      "evidenceLeader": "Adv Segeels Ncube."
+    },
+    {
+      "day": 167,
+      "date": "2026-08-26",
+      "materials": 2,
+      "witness": "Mr Cat Matlala.",
+      "evidenceLeader": "Adv Hassim SC."
+    },
+    {
+      "day": 166,
+      "date": "2026-08-25",
+      "materials": 2,
+      "witness": "Mr Cat Matlala.",
+      "evidenceLeader": "Adv Sello SC."
+    },
+    {
+      "day": 165,
+      "date": "2026-08-24",
+      "materials": 2,
+      "witness": "Mr Cat Matlala.",
+      "evidenceLeader": "Adv Hassim SC."
+    },
+    {
+      "day": 164,
+      "date": "2026-08-21",
+      "materials": 2,
+      "witness": "Lieutenant Colonel Govender.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 163,
+      "date": "2026-08-20",
+      "materials": 2,
+      "witness": "Mr Fadiel Adams.",
+      "evidenceLeader": "Adv Seegels-Ncube."
+    },
+    {
+      "day": 162,
+      "date": "2026-08-19",
+      "materials": 2,
+      "witness": "Mr Fadiel Adams MP.",
+      "evidenceLeader": "Adv Segeels Ncube."
+    },
+    {
+      "day": 161,
+      "date": "2026-08-18",
+      "materials": 1,
+      "witness": "None (the scheduled witness, Mr Vusimuzi Matlala, was postponed)",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 160,
+      "date": "2026-08-17",
+      "materials": 2,
+      "witness": "Mr Vusimuzi Matlala.",
+      "evidenceLeader": "Adv Sello SC & Adv Hassim SC."
+    },
+    {
+      "day": 159,
+      "date": "2026-08-14",
+      "materials": 2,
+      "witness": "Witness P.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 158,
+      "date": "2026-08-13",
+      "materials": 2,
+      "witness": "Captain Houston.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 157,
+      "date": "2026-08-12",
+      "materials": 2,
+      "witness": "Mr Len Barnabas John.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 156,
+      "date": "2026-08-11",
+      "materials": 2,
+      "witness": "Ms Ramsamy.",
+      "evidenceLeader": "Adv Segeels Ncube."
+    },
+    {
+      "day": 155,
+      "date": "2026-08-06",
+      "materials": 2,
+      "witness": "Matthew Sesoko.",
+      "evidenceLeader": "Advocate Pooe."
+    },
+    {
+      "day": 154,
+      "date": "2026-08-05",
+      "materials": 2,
+      "witness": "Drushantha Ramsamy.",
+      "evidenceLeader": "Adv Segeels Ncube."
+    },
+    {
+      "day": 153,
+      "date": "2026-08-04",
+      "materials": 2,
+      "witness": "Adv Peter Serunye.",
+      "evidenceLeader": "Adv Pooe."
+    },
+    {
+      "day": 152,
+      "date": "2026-07-31",
+      "materials": 2,
+      "witness": "Mr Mantsha Robert Raphesu.",
+      "evidenceLeader": "Adv Pooe."
+    },
+    {
+      "day": 151,
+      "date": "2026-07-30",
+      "materials": 2,
+      "witness": "Ms Drushantha Ramsamy.",
+      "evidenceLeader": "Adv Sello SC, Adv Segeels-Ncube."
+    },
+    {
+      "day": 150,
+      "date": "2026-07-29",
+      "materials": 2,
+      "witness": "Adv Andrea Johnson.",
+      "evidenceLeader": "Adv M Sello SC."
+    },
+    {
+      "day": 149,
+      "date": "2026-07-28",
+      "materials": 2,
+      "witness": "Adv Andrea Johnson.",
+      "evidenceLeader": "Adv M Sello SC."
+    },
+    {
+      "day": 148,
+      "date": "2026-07-27",
+      "materials": 2,
+      "witness": "Adv Andrea Johnson.",
+      "evidenceLeader": "Adv M Sello SC."
+    },
+    {
+      "day": 147,
+      "date": "2026-07-24",
+      "materials": 2,
+      "witness": "Mr Carrim.",
+      "evidenceLeader": "Adv Hassim SC."
+    },
+    {
+      "day": 146,
+      "date": "2026-07-23",
+      "materials": 2,
+      "witness": "Adv Andrea Johnson.",
+      "evidenceLeader": "Adv Sello SC."
+    },
+    {
+      "day": 145,
+      "date": "2026-07-22",
+      "materials": 2,
+      "witness": "Adv Andrea Johnson.",
+      "evidenceLeader": "Adv Sello SC."
+    },
+    {
+      "day": 144,
+      "date": "2026-07-21",
+      "materials": 2,
+      "witness": "Advocate Andrea Johnson.",
+      "evidenceLeader": "Advocate Sello SC."
+    },
+    {
+      "day": 143,
+      "date": "2026-07-20",
+      "materials": 0,
+      "witness": null,
+      "evidenceLeader": null
+    },
+    {
+      "day": 142,
+      "date": "2026-07-17",
+      "materials": 2,
+      "witness": "Warrant Officer Mpangase.",
+      "evidenceLeader": "Adv Sikhakhane."
+    },
+    {
+      "day": 141,
+      "date": "2026-07-16",
+      "materials": 2,
+      "witness": "Colonel Padayachee.",
+      "evidenceLeader": "Adv Sello."
+    },
+    {
+      "day": 140,
+      "date": "2026-07-15",
+      "materials": 2,
+      "witness": "Mr Matlala, Colonel Brian Padayachee, Mr Carrim.",
+      "evidenceLeader": "Adv Sello SC."
+    },
+    {
+      "day": 139,
+      "date": "2026-07-14",
+      "materials": 2,
+      "witness": "Colonel Padayachee.",
+      "evidenceLeader": "Adv Sello."
+    },
+    {
+      "day": 138,
+      "date": "2026-07-13",
+      "materials": 2,
+      "witness": "Andrea Johnson.",
+      "evidenceLeader": "Adv Sello SC."
+    },
+    {
+      "day": 137,
+      "date": "2026-07-10",
+      "materials": 1,
+      "witness": "Witness N and O (in camera application), Captain Roelefse, Captain McLean.",
+      "evidenceLeader": "Adv Sello SC, Adv Seegels-Ncube, Adv Motlhasedi."
+    },
+    {
+      "day": 136,
+      "date": "2026-07-09",
+      "materials": 2,
+      "witness": "Dr Schoeman, Major General Khan.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 135,
+      "date": "2026-07-08",
+      "materials": 2,
+      "witness": "Witness M.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 134,
+      "date": "2026-07-07",
+      "materials": 2,
+      "witness": "Major General Feroz Khan.",
+      "evidenceLeader": "Mr Chaskalson SC, Ms Hassim SC, Ms Pooe."
+    },
+    {
+      "day": 133,
+      "date": "2026-07-06",
+      "materials": 2,
+      "witness": "Major General Khan.",
+      "evidenceLeader": "Adv A Hassim SC."
+    },
+    {
+      "day": 132,
+      "date": "2026-07-03",
+      "materials": 2,
+      "witness": "Major General Khan.",
+      "evidenceLeader": "Adv A Hassim SC."
+    },
+    {
+      "day": 131,
+      "date": "2026-07-02",
+      "materials": 1,
+      "witness": "Mr Nku.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 130,
+      "date": "2026-07-01",
+      "materials": 1,
+      "witness": "Mr Nku, Major General Khan, Witness L.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 129,
+      "date": "2026-06-30",
+      "materials": 2,
+      "witness": "Mr Shongwe, Witness L.",
+      "evidenceLeader": "Adv A Hassim SC."
+    },
+    {
+      "day": 128,
+      "date": "2026-06-29",
+      "materials": 2,
+      "witness": "Mr O' Sullivan.",
+      "evidenceLeader": "Adv M Sello SC."
+    },
+    {
+      "day": 127,
+      "date": "2026-06-26",
+      "materials": 2,
+      "witness": "Mr Nku.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 126,
+      "date": "2026-06-25",
+      "materials": 2,
+      "witness": "Mr Nku.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 125,
+      "date": "2026-06-24",
+      "materials": 1,
+      "witness": "Commissioner Julius Mkhwanazi.",
+      "evidenceLeader": "Ms Sello SC."
+    },
+    {
+      "day": 124,
+      "date": "2026-06-23",
+      "materials": 0,
+      "witness": "Witness K.",
+      "evidenceLeader": "Adv Motlhasedi."
+    },
+    {
+      "day": 123,
+      "date": "2026-06-22",
+      "materials": 2,
+      "witness": "Mr van Wyk.",
+      "evidenceLeader": "Adv M Chaskalson SC."
+    },
+    {
+      "day": 122,
+      "date": "2026-06-19",
+      "materials": 2,
+      "witness": "Major General Senona.",
+      "evidenceLeader": "Adv M Sello SC."
+    },
+    {
+      "day": 121,
+      "date": "2026-06-18",
+      "materials": 2,
+      "witness": "Witness J.",
+      "evidenceLeader": "Adv Pooe."
+    },
+    {
+      "day": 120,
+      "date": "2026-06-17",
+      "materials": 2,
+      "witness": "Brigadier Nyuswa.",
+      "evidenceLeader": "Adv Segeels Ncube"
+    },
+    {
+      "day": 119,
+      "date": "2026-06-12",
+      "materials": 2,
+      "witness": "Chief Mashaba.",
+      "evidenceLeader": "Adv Segeels Ncube."
+    },
+    {
+      "day": 118,
+      "date": "2026-06-11",
+      "materials": 2,
+      "witness": "Chief Mashaba.",
+      "evidenceLeader": "Adv Segeels Ncube."
+    },
+    {
+      "day": 117,
+      "date": "2026-06-10",
+      "materials": 2,
+      "witness": "Chief Mashaba.",
+      "evidenceLeader": "Adv Segeels Ncube."
+    },
+    {
+      "day": 116,
+      "date": "2026-06-09",
+      "materials": 2,
+      "witness": "Witness I.",
+      "evidenceLeader": "Adv Pooe."
+    },
+    {
+      "day": 115,
+      "date": "2026-06-08",
+      "materials": 2,
+      "witness": "Ms Maphosho.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 114,
+      "date": "2026-06-05",
+      "materials": 2,
+      "witness": "Lieutenant Colonel Sibiya.",
+      "evidenceLeader": "Adv Sikhakhane."
+    },
+    {
+      "day": 113,
+      "date": "2026-06-04",
+      "materials": 2,
+      "witness": "Witness I, Colonel Jacobs, Major General Senona.",
+      "evidenceLeader": "Adv A Hassim SC, Adv M Sello SC."
+    },
+    {
+      "day": 112,
+      "date": "2026-06-03",
+      "materials": 2,
+      "witness": "Colonel Jacobs.",
+      "evidenceLeader": "Adv M Sello SC."
+    },
+    {
+      "day": 111,
+      "date": "2026-06-02",
+      "materials": 2,
+      "witness": "Lieutenant Colonel Duma.",
+      "evidenceLeader": "Adv Sikhakhane."
+    },
+    {
+      "day": 110,
+      "date": "2026-06-01",
+      "materials": 1,
+      "witness": "Warrant Officer Sanders.",
+      "evidenceLeader": "Adv Segeels Ncube."
+    },
+    {
+      "day": 109,
+      "date": "2026-05-15",
+      "materials": 2,
+      "witness": "Mr Mogotsi.",
+      "evidenceLeader": "Adv A Hassim SC."
+    },
+    {
+      "day": 108,
+      "date": "2026-05-14",
+      "materials": 2,
+      "witness": "Lieutenant Colonel Sebola.",
+      "evidenceLeader": "Adv Pooe."
+    },
+    {
+      "day": 107,
+      "date": "2026-05-13",
+      "materials": 2,
+      "witness": "Warrant Officer Phakula.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 106,
+      "date": "2026-05-12",
+      "materials": 2,
+      "witness": "Warrant Officer Magane.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 105,
+      "date": "2026-05-11",
+      "materials": 1,
+      "witness": "Colonel Steyn.",
+      "evidenceLeader": "Adv A Hassim SC."
+    },
+    {
+      "day": 104,
+      "date": "2026-05-08",
+      "materials": 0,
+      "witness": null,
+      "evidenceLeader": null
+    },
+    {
+      "day": 103,
+      "date": "2026-05-07",
+      "materials": 2,
+      "witness": "Lieutenant Colonel Prinsloo.",
+      "evidenceLeader": "Adv Sikhakhane."
+    },
+    {
+      "day": 102,
+      "date": "2026-05-06",
+      "materials": 2,
+      "witness": "Witness H.",
+      "evidenceLeader": null
+    },
+    {
+      "day": 101,
+      "date": "2026-05-05",
+      "materials": 2,
+      "witness": "Major General Flynn, Witness H.",
+      "evidenceLeader": "Adv Segeels Ncube, Adv M Sello SC."
+    },
+    {
+      "day": 100,
+      "date": "2026-05-04",
+      "materials": 1,
+      "witness": "Witness G.",
+      "evidenceLeader": "Adv M Chaskalson SC."
+    },
+    {
+      "day": 99,
+      "date": "2026-04-30",
+      "materials": 2,
+      "witness": "Director Malatji.",
+      "evidenceLeader": "Adv Sikhakhane."
+    },
+    {
+      "day": 98,
+      "date": "2026-04-28",
+      "materials": 2,
+      "witness": "Commissioner Dhlamini, Mr Mogotsi.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 97,
+      "date": "2026-04-24",
+      "materials": 2,
+      "witness": "Commissioner Dhlamini.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 96,
+      "date": "2026-04-23",
+      "materials": 2,
+      "witness": "Mr Phiri, Commissioner Dhlamini.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 95,
+      "date": "2026-04-22",
+      "materials": 2,
+      "witness": "Brigadier Nkhwashu.",
+      "evidenceLeader": "Adv Pooe."
+    },
+    {
+      "day": 94,
+      "date": "2026-04-21",
+      "materials": 2,
+      "witness": "Mr Mnisi.",
+      "evidenceLeader": "Adv M Chaskalson SC."
+    },
+    {
+      "day": 93,
+      "date": "2026-04-20",
+      "materials": 2,
+      "witness": "Mr Mnisi.",
+      "evidenceLeader": "Adv M Chaskalson SC."
+    },
+    {
+      "day": 92,
+      "date": "2026-04-17",
+      "materials": 2,
+      "witness": "Mr Mnisi.",
+      "evidenceLeader": "Adv M Chaskalson SC."
+    },
+    {
+      "day": 91,
+      "date": "2026-04-16",
+      "materials": 0,
+      "witness": null,
+      "evidenceLeader": null
+    },
+    {
+      "day": 90,
+      "date": "2026-04-15",
+      "materials": 0,
+      "witness": null,
+      "evidenceLeader": null
+    },
+    {
+      "day": 89,
+      "date": "2026-04-14",
+      "materials": 2,
+      "witness": "Commissioner Julius Mkhwanazi.",
+      "evidenceLeader": "Adv M Sello SC."
+    },
+    {
+      "day": 88,
+      "date": "2026-04-10",
+      "materials": 2,
+      "witness": "Commissioner Dhlamini.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 87,
+      "date": "2026-04-09",
+      "materials": 2,
+      "witness": "Director Malatji, Mr Phiri.",
+      "evidenceLeader": "Adv Sikhakhane."
+    },
+    {
+      "day": 86,
+      "date": "2026-04-08",
+      "materials": 2,
+      "witness": "Commissioner Faro.",
+      "evidenceLeader": "Adv Sikhakhane."
+    },
+    {
+      "day": 85,
+      "date": "2026-04-07",
+      "materials": 0,
+      "witness": "Commissioner Faro.",
+      "evidenceLeader": "Adv Sikhakhane."
+    },
+    {
+      "day": 84,
+      "date": "2026-03-24",
+      "materials": 2,
+      "witness": "Commissioner Spies.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 83,
+      "date": "2026-03-23",
+      "materials": 2,
+      "witness": "Sergeant Nkosi.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 82,
+      "date": "2026-03-20",
+      "materials": 2,
+      "witness": null,
+      "evidenceLeader": null
+    },
+    {
+      "day": 81,
+      "date": "2026-03-19",
+      "materials": 2,
+      "witness": "Sergeant Fannie Nkosi.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 80,
+      "date": "2026-03-18",
+      "materials": 3,
+      "witness": "Sergeant Fannie Nkosi.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 79,
+      "date": "2026-03-17",
+      "materials": 3,
+      "witness": "Sergeant Fannie Nkosi.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 78,
+      "date": "2026-03-16",
+      "materials": 3,
+      "witness": "Sergeant Nkosi.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 77,
+      "date": "2026-03-13",
+      "materials": 3,
+      "witness": "Gen Shibiri, Witness G.",
+      "evidenceLeader": "Adv Seegels-Ncube, Adv Chaskalson SC."
+    },
+    {
+      "day": 76,
+      "date": "2026-03-12",
+      "materials": 3,
+      "witness": "Gen Shibiri.",
+      "evidenceLeader": "Adv Seegels-Ncube."
+    },
+    {
+      "day": 75,
+      "date": "2026-03-11",
+      "materials": 3,
+      "witness": "Witness G, Gen Shibiri.",
+      "evidenceLeader": "Adv Chaskalson SC, Adv Pooe."
+    },
+    {
+      "day": 74,
+      "date": "2026-03-10",
+      "materials": 3,
+      "witness": "Carrim.",
+      "evidenceLeader": "Adv Chaskalson."
+    },
+    {
+      "day": 73,
+      "date": "2026-03-09",
+      "materials": 3,
+      "witness": "Com Mkhwanazi, Carrim.",
+      "evidenceLeader": "Adv Sello SC, Adv Chaskalson SC."
+    },
+    {
+      "day": 72,
+      "date": "2026-03-06",
+      "materials": 3,
+      "witness": "Carrim.",
+      "evidenceLeader": "Adv Hassim SC."
+    },
+    {
+      "day": 71,
+      "date": "2026-03-04",
+      "materials": 3,
+      "witness": "Major General Shibiri.",
+      "evidenceLeader": "Adv Seegels-Ncube."
+    },
+    {
+      "day": 70,
+      "date": "2026-03-02",
+      "materials": 3,
+      "witness": "Mr Mogotsi.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 69,
+      "date": "2026-02-27",
+      "materials": 1,
+      "witness": "Mrs Gxasheka.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 68,
+      "date": "2026-02-26",
+      "materials": 3,
+      "witness": "Witness G, Mrs Gxasheka.",
+      "evidenceLeader": "Adv Chaskalson."
+    },
+    {
+      "day": 67,
+      "date": "2026-02-25",
+      "materials": 3,
+      "witness": "Witness G.",
+      "evidenceLeader": "Adv Chaskalson."
+    },
+    {
+      "day": 66,
+      "date": "2026-02-24",
+      "materials": 3,
+      "witness": "Lieutenant General Sibiya.",
+      "evidenceLeader": "Adv Hassim SC"
+    },
+    {
+      "day": 65,
+      "date": "2026-02-23",
+      "materials": 3,
+      "witness": "Lieutenant General Sibiya.",
+      "evidenceLeader": "Adv Hassim SC"
+    },
+    {
+      "day": 64,
+      "date": "2026-02-20",
+      "materials": 3,
+      "witness": "Lieutenant General Sibiya.",
+      "evidenceLeader": "Adv Hassim SC"
+    },
+    {
+      "day": 63,
+      "date": "2026-02-19",
+      "materials": 3,
+      "witness": "Lieutenant General Sibiya.",
+      "evidenceLeader": "Adv Hassim SC"
+    },
+    {
+      "day": 62,
+      "date": "2026-02-18",
+      "materials": 3,
+      "witness": "Lieutenant General Sibiya.",
+      "evidenceLeader": "Adv Hassim SC"
+    },
+    {
+      "day": 61,
+      "date": "2026-02-16",
+      "materials": 2,
+      "witness": "Witness F.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 60,
+      "date": "2026-02-13",
+      "materials": 3,
+      "witness": "Thulani Magagula.",
+      "evidenceLeader": "Adv Sello SC."
+    },
+    {
+      "day": 59,
+      "date": "2026-02-12",
+      "materials": 3,
+      "witness": "Mrs Masuku.",
+      "evidenceLeader": "Adv Sello SC."
+    },
+    {
+      "day": 58,
+      "date": "2026-02-11",
+      "materials": 3,
+      "witness": "Mr Keefelkae, Mrs Masuku.",
+      "evidenceLeader": "Adv Sello SC."
+    },
+    {
+      "day": 57,
+      "date": "2026-02-10",
+      "materials": 3,
+      "witness": "Adv Behari, Mrs Gxasheka.",
+      "evidenceLeader": "Adv Segeels-Ncube."
+    },
+    {
+      "day": 56,
+      "date": "2026-02-09",
+      "materials": 1,
+      "witness": "Adv Behari.",
+      "evidenceLeader": "Adv Segeels-Ncube.",
+      "types": [
+        "AUDIO"
+      ],
+      "transcript": false,
+      "note": "Single material. Site labels it TRANSCRIPTS but it is audio - label and file disagree."
+    },
+    {
+      "day": 55,
+      "date": "2026-02-06",
+      "materials": 3,
+      "witness": "Brigadier Rachel Matjeng, Witness F, Mr Carrim.",
+      "evidenceLeader": "Adv Pooe, Adv Chaskalson SC."
+    },
+    {
+      "day": 54,
+      "date": "2026-02-05",
+      "materials": 3,
+      "witness": "Brigadier Matjeng.",
+      "evidenceLeader": "Adv Pooe"
+    },
+    {
+      "day": 53,
+      "date": "2026-02-04",
+      "materials": 3,
+      "witness": "Witness F.",
+      "evidenceLeader": "Adv Chaskalson SC."
+    },
+    {
+      "day": 52,
+      "date": "2026-02-03",
+      "materials": 3,
+      "witness": "Witness F.",
+      "evidenceLeader": "Adv Chaskalson SC"
+    },
+    {
+      "day": 51,
+      "date": "2026-02-02",
+      "materials": 3,
+      "witness": "Captain Makgotloe.",
+      "evidenceLeader": "Adv Mosikili."
+    },
+    {
+      "day": 50,
+      "date": "2026-01-30",
+      "materials": 3,
+      "witness": "Witness F.",
+      "evidenceLeader": "Adv Chaskalson SC"
+    },
+    {
+      "day": 49,
+      "date": "2026-01-29",
+      "materials": 3,
+      "witness": "Major-General Lesetja Senona",
+      "evidenceLeader": "Adv Hassim SC."
+    },
+    {
+      "day": 48,
+      "date": "2026-01-28",
+      "materials": 3,
+      "witness": "Major General Senona.",
+      "evidenceLeader": "Adv Hassim SC"
+    },
+    {
+      "day": 47,
+      "date": "2026-01-27",
+      "materials": 3,
+      "witness": "Major General Senona.",
+      "evidenceLeader": "Adv Hassim SC."
+    },
+    {
+      "day": 46,
+      "date": "2026-01-26",
+      "materials": 3,
+      "witness": "Major General Gopaul.",
+      "evidenceLeader": "Adv Mohlasedi, Adv Sello SC."
+    },
+    {
+      "day": 45,
+      "date": "2025-12-05",
+      "materials": 3,
+      "witness": "Minister Mchunu.",
+      "evidenceLeader": "Adv Sello SC, Adv Pooe."
+    },
+    {
+      "day": 44,
+      "date": "2025-12-04",
+      "materials": 3,
+      "witness": "Commissioner Mkhwanazi.",
+      "evidenceLeader": "Adv Sello SC."
+    },
+    {
+      "day": 43,
+      "date": "2025-12-03",
+      "materials": 2,
+      "witness": "Commissioner Mkhwanazi.",
+      "evidenceLeader": "Adv Sello SC"
+    },
+    {
+      "day": 42,
+      "date": "2025-12-02",
+      "materials": 3,
+      "witness": "Dr Mashazi.",
+      "evidenceLeader": "Adv Sello SC."
+    },
+    {
+      "day": 41,
+      "date": "2025-12-01",
+      "materials": 3,
+      "witness": "Dr Mashazi.",
+      "evidenceLeader": "Adv Sello SC."
+    },
+    {
+      "day": 40,
+      "date": "2025-11-28",
+      "materials": 2,
+      "witness": "Lieutenant General Senthumule.",
+      "evidenceLeader": "Adv Pooe"
+    },
+    {
+      "day": 39,
+      "date": "2025-11-26",
+      "materials": 2,
+      "witness": "Major General Senona.",
+      "evidenceLeader": "Adv Chaskalson"
+    },
+    {
+      "day": 38,
+      "date": "2025-11-25",
+      "materials": 1,
+      "witness": "Captain Nortje, Major General Kadwa.",
+      "evidenceLeader": "Adv Chaskalson SC, Adv Pooe"
+    },
+    {
+      "day": 37,
+      "date": "2025-11-20",
+      "materials": 2,
+      "witness": "Mr Mogotsi.",
+      "evidenceLeader": "Adv Chaskalson SC, Adv Pooe."
+    },
+    {
+      "day": 36,
+      "date": "2025-11-19",
+      "materials": 2,
+      "witness": "Mr Mogotsi.",
+      "evidenceLeader": "Adv Chaskalson SC, Adv Pooe"
+    },
+    {
+      "day": 35,
+      "date": "2025-11-18",
+      "materials": 2,
+      "witness": "Mr Mogotsi.",
+      "evidenceLeader": "Adv Chaskalson, Adv Pooe"
+    },
+    {
+      "day": 34,
+      "date": "2025-11-17",
+      "materials": 3,
+      "witness": "Major General Motsepe, Lieutenant Colonel Paul Ntate Khumalo.",
+      "evidenceLeader": "Adv Hassim"
+    },
+    {
+      "day": 33,
+      "date": "2025-11-14",
+      "materials": 3,
+      "witness": "Lieutenant Colonel Thepa, Witness D.",
+      "evidenceLeader": "Adv Motlhasedi"
+    },
+    {
+      "day": 32,
+      "date": "2025-11-13",
+      "materials": 2,
+      "witness": "Mr Nciza",
+      "evidenceLeader": "Adv Motlhasedi"
+    },
+    {
+      "day": 31,
+      "date": "2025-11-12",
+      "materials": 2,
+      "witness": "Mr Nciza.",
+      "evidenceLeader": "Adv Motlhasedi"
+    },
+    {
+      "day": 30,
+      "date": "2025-11-11",
+      "materials": 2,
+      "witness": "Commissioner Spies, Mr Nciza.",
+      "evidenceLeader": "Adv Sello SC, Adv Motlhasedi."
+    },
+    {
+      "day": 29,
+      "date": "2025-11-10",
+      "materials": 2,
+      "witness": "Commissioner Spies.",
+      "evidenceLeader": "Adv Sello SC"
+    },
+    {
+      "day": 28,
+      "date": "2025-11-07",
+      "materials": 2,
+      "witness": "Chief Mapiyeye, Commissioner Spies.",
+      "evidenceLeader": "Adv Sello SC."
+    },
+    {
+      "day": 27,
+      "date": "2025-11-06",
+      "materials": 2,
+      "witness": "Adv Hassim SC.",
+      "evidenceLeader": "Adv Sello SC"
+    },
+    {
+      "day": 26,
+      "date": "2025-11-05",
+      "materials": 4,
+      "witness": "Lieutenant General.",
+      "evidenceLeader": "Adv Hassim SC."
+    },
+    {
+      "day": 25,
+      "date": "2025-11-04",
+      "materials": 2,
+      "witness": "Lieutenant General.",
+      "evidenceLeader": "Adv Hassim SC"
+    },
+    {
+      "day": 24,
+      "date": "2025-11-03",
+      "materials": 2,
+      "witness": "Chief Inspector Raftopoulos, Warrant Officer Nkosi, General Mbotho.",
+      "evidenceLeader": "Adv Segeels-Ncube."
+    },
+    {
+      "day": 23,
+      "date": "2025-10-30",
+      "materials": 4,
+      "witness": "Witness C",
+      "evidenceLeader": null
+    },
+    {
+      "day": 22,
+      "date": "2025-10-29",
+      "materials": 5,
+      "witness": "Captain Mokoena.",
+      "evidenceLeader": "Adv Segeels-Ncube"
+    },
+    {
+      "day": 21,
+      "date": "2025-10-28",
+      "materials": 6,
+      "witness": "Captain Mkhwatshwa.",
+      "evidenceLeader": "Adv Segeels-Ncube."
+    },
+    {
+      "day": 20,
+      "date": "2025-10-27",
+      "materials": 4,
+      "witness": "Brigadier Mkhabela.",
+      "evidenceLeader": "Adv Chaskalson SC, Adv Pooe."
+    },
+    {
+      "day": 19,
+      "date": "2025-10-24",
+      "materials": 1,
+      "witness": "Witness C.",
+      "evidenceLeader": "Adv Motlhasedi, Adv Seegels-Ncube."
+    },
+    {
+      "day": 18,
+      "date": "2025-10-23",
+      "materials": 3,
+      "witness": null,
+      "evidenceLeader": "Adv Pooe, Adv Seegels-Ncube"
+    },
+    {
+      "day": 17,
+      "date": "2025-10-22",
+      "materials": 2,
+      "witness": "Witness B.",
+      "evidenceLeader": "Adv Pooe, Adv Seegels-Ncube"
+    },
+    {
+      "day": 16,
+      "date": "2025-10-21",
+      "materials": 0,
+      "witness": "Witness A.",
+      "evidenceLeader": "Adv Seegels-Ncube, Adv Pooe"
+    },
+    {
+      "day": 15,
+      "date": "2025-10-20",
+      "materials": 3,
+      "witness": "Witness A",
+      "evidenceLeader": null
+    },
+    {
+      "day": 14,
+      "date": "2025-10-17",
+      "materials": 3,
+      "witness": "Witness ICB/Y",
+      "evidenceLeader": null,
+      "types": [
+        "STATEMENTS",
+        "STATEMENTS",
+        "STATEMENTS"
+      ],
+      "transcript": false,
+      "note": "No transcript or video published. Three statements only."
+    },
+    {
+      "day": 13,
+      "date": "2025-10-16",
+      "materials": 2,
+      "witness": "Witness ICB/Y",
+      "evidenceLeader": null
+    },
+    {
+      "day": 12,
+      "date": "2025-10-14",
+      "materials": 6,
+      "witness": "Witness X.",
+      "evidenceLeader": "Adv Chaskalson, Adv Pooe"
+    },
+    {
+      "day": 11,
+      "date": "2025-10-13",
+      "materials": 2,
+      "witness": "Witness X",
+      "evidenceLeader": null
+    },
+    {
+      "day": 10,
+      "date": "2025-10-01",
+      "materials": 1,
+      "witness": null,
+      "evidenceLeader": null
+    },
+    {
+      "day": 9,
+      "date": "2025-09-30",
+      "materials": 2,
+      "witness": "Lieutenant General.",
+      "evidenceLeader": "Adv Hassim SC, Adv Pooe"
+    },
+    {
+      "day": 8,
+      "date": "2025-09-29",
+      "materials": 2,
+      "witness": "Lieutenant General Khumalo.",
+      "evidenceLeader": "Adv Hassim SC, Adv Pooe."
+    },
+    {
+      "day": 7,
+      "date": "2025-09-26",
+      "materials": 3,
+      "witness": "Adv Harris.",
+      "evidenceLeader": "Adv Chaskalson SC, Adv Seegels-Ncube."
+    },
+    {
+      "day": 6,
+      "date": "2025-09-25",
+      "materials": 3,
+      "witness": "Major General van Rooyen.",
+      "evidenceLeader": "Adv Motau SC.",
+      "types": [
+        "AUDIO",
+        "STATEMENTS",
+        "STATEMENTS"
+      ],
+      "transcript": false,
+      "note": "No transcript published. Audio plus two statements only."
+    },
+    {
+      "day": 5,
+      "date": "2025-09-23",
+      "materials": 4,
+      "witness": "General Masemola.",
+      "evidenceLeader": "Adv Motau SC, Adv Seegels-Ncube."
+    },
+    {
+      "day": 4,
+      "date": "2025-09-22",
+      "materials": 2,
+      "witness": "General Masemola.",
+      "evidenceLeader": "Adv Motau SC, Adv Seegels-Ncube."
+    },
+    {
+      "day": 3,
+      "date": "2025-09-19",
+      "materials": 7,
+      "witness": "Lieutenant Genera Mkhwanazi.",
+      "evidenceLeader": "Adv Sello SC"
+    },
+    {
+      "day": 2,
+      "date": "2025-09-18",
+      "materials": 3,
+      "witness": "Lieutenant General Mkhwanazi.",
+      "evidenceLeader": "Adv Sello SC"
+    },
+    {
+      "day": 1,
+      "date": "2025-09-17",
+      "materials": 4,
+      "witness": null,
+      "evidenceLeader": null
+    }
+  ]
+}
