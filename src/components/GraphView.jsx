@@ -32,6 +32,16 @@ const EDGE_STYLE = {
   'co-clip': { stroke: '#5b6b7d', label: 'named in same clip', rest: 0.3 },
 };
 
+/**
+ * Links below this weight are hidden to begin with.
+ *
+ * At 1 the graph draws all 255 connections, most of them a single shared clip
+ * title - true, but not much of a signal, and dense enough to bury the
+ * relationships that matter. Starting at 4 opens on the structure; the slider
+ * goes back down to 1 for anyone who wants the full mesh.
+ */
+const DEFAULT_MIN_WEIGHT = 4;
+
 const ZOOM_MIN = 0.45;
 const ZOOM_MAX = 3;
 const DRAG_SLOP = 4;
@@ -117,7 +127,7 @@ export default function GraphView({ onPerson }) {
   const [pathId, setPathId] = useState('all');
   const [hover, setHover] = useState(null);
   const [selected, setSelected] = useState(null);
-  const [minWeight, setMinWeight] = useState(1);
+  const [minWeight, setMinWeight] = useState(DEFAULT_MIN_WEIGHT);
 
   const wrapRef = useRef(null);
   const svgRef = useRef(null);
@@ -400,6 +410,7 @@ export default function GraphView({ onPerson }) {
   const resetAll = () => {
     setPathId('all');
     setSelected(null);
+    setMinWeight(DEFAULT_MIN_WEIGHT);
     setView({ k: 1, x: 0, y: 0 });
   };
 
