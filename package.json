@@ -12,7 +12,8 @@
     "verify": "node scripts/verify-data.mjs",
     "confirm-dates": "node scripts/confirm-dates.mjs",
     "refresh-articles": "node scripts/refresh-articles.mjs",
-    "ingest-transcripts": "python scripts/extract_transcripts.py && node scripts/index-transcripts.mjs"
+    "ingest-transcripts": "python scripts/extract_transcripts.py && node scripts/index-transcripts.mjs",
+    "sweep-site": "node scripts/sweep-day-index.mjs"
   },
   "dependencies": {
     "react": "^18.3.1",
