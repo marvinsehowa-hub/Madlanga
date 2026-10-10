@@ -40,10 +40,33 @@ export function transcriptMentionsFor(personId) {
 
 const cache = new Map();
 
+/**
+ * The index stores textFile as "/transcripts/<name>.json". On GitHub Pages the
+ * app is served from /<repo>/, so that leading slash would resolve to the
+ * domain root and 404. Re-root it against Vite's BASE_URL.
+ */
+function textUrl(day) {
+  const base = import.meta.env.BASE_URL || '/';
+  return base.replace(/\/$/, '') + day.textFile;
+}
+
+/** Thrown when the full text was not deployed alongside the app. */
+export class TranscriptTextUnavailable extends Error {}
+
 async function loadDay(day) {
   if (cache.has(day.date)) return cache.get(day.date);
-  const res = await fetch(day.textFile);
-  if (!res.ok) throw new Error(`${day.date}: HTTP ${res.status}`);
+  const res = await fetch(textUrl(day));
+  if (!res.ok) {
+    // A 404 here means the verbatim text is not published with this build -
+    // the repo deliberately ships only the index. That is a different thing
+    // from a broken deployment, and the UI says so.
+    if (res.status === 404) {
+      throw new TranscriptTextUnavailable(
+        'Full transcript text is not published with this build.'
+      );
+    }
+    throw new Error(`${day.date}: HTTP ${res.status}`);
+  }
   const doc = await res.json();
   cache.set(day.date, doc);
   return doc;

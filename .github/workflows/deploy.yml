@@ -1,0 +1,60 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Allow one deployment at a time; cancel superseded runs rather than queueing.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      # Guard the deploy with the same data checks used locally: dangling
+      # person ids, unresolved allegers, allegation dates that disagree with
+      # the clip they are pinned to. A broken register should not ship.
+      - name: Verify curated data
+        run: npm run verify
+
+      - name: Build
+        # Pages serves the site from /<repo>/, so assets need that prefix.
+        env:
+          BASE_PATH: /${{ github.event.repository.name }}/
+        run: npm run build
+
+      # Without this, a reload on any route 404s: Pages has no SPA fallback,
+      # and serves 404.html for unknown paths.
+      - name: Add SPA fallback
+        run: cp dist/index.html dist/404.html
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

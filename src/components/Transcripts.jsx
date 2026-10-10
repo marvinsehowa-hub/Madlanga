@@ -7,6 +7,7 @@ import {
   loadAllDays,
   searchLoaded,
   dayPeople,
+  TranscriptTextUnavailable,
 } from '../lib/transcripts.js';
 import { formatDate } from '../lib/data.js';
 
@@ -29,7 +30,9 @@ export default function Transcripts({ onPerson }) {
       setDocs(loaded);
       return loaded;
     } catch (err) {
-      setError(err.message);
+      setError(
+        err instanceof TranscriptTextUnavailable ? 'index-only' : err.message
+      );
       return null;
     } finally {
       setLoading(false);
@@ -97,7 +100,23 @@ export default function Transcripts({ onPerson }) {
           Loading transcripts… {progress[0]}/{progress[1]} days
         </p>
       )}
-      {error && <p className="empty">Could not load transcripts: {error}</p>}
+      {error === 'index-only' && (
+        <p className="cat-blurb tone-amber">
+          <strong>This build ships the index, not the verbatim text.</strong>{' '}
+          You can still browse every sitting day below — who testified, who was
+          named and how often, with a locating snippet each. Full-text search
+          needs the commission&apos;s daily records ingested locally:{' '}
+          <code>npm run ingest-transcripts</code>. The records themselves are
+          published by{' '}
+          <a href={transcriptSource} target="_blank" rel="noreferrer">
+            the commission
+          </a>
+          .
+        </p>
+      )}
+      {error && error !== 'index-only' && (
+        <p className="empty">Could not load transcripts: {error}</p>
+      )}
 
       {results && (
         <>
@@ -128,6 +147,8 @@ export default function Transcripts({ onPerson }) {
         </>
       )}
 
+      {/* The day list comes from the bundled index, so it renders even when
+          the verbatim text was not deployed. */}
       {!results && !loading && (
         <section className="panel">
           <div className="panel-head">
