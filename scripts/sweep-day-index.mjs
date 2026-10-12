@@ -9,16 +9,30 @@
  *
  * The site is a React SPA, so the capture itself has to happen in a browser.
  * Paste this into the console at
- * https://criminaljusticecommission.org.za/hearings with every month expanded:
+ * https://criminaljusticecommission.org.za/hearings and let it run - it takes
+ * about fifteen seconds:
  *
- *   (()=>{const t=document.body.innerText;
- *    const re=/Day (\d+)\n([A-Z][a-z]{2}, \d{1,2} \w{3} \d{4})\n·\s*(\d+)\s*materials?/g;
- *    const o=[],s=new Set();let m;
- *    while((m=re.exec(t))){const d=+m[1];if(s.has(d))continue;s.add(d);o.push(d+':'+m[3]);}
- *    return o.sort((a,b)=>+a.split(':')[0]-+b.split(':')[0]).join(',');})()
+ *   (async()=>{
+ *    const M=/^(January|February|March|April|May|June|July|August|September|October|November|December)\s+20\d\d/;
+ *    const grab=()=>{const t=document.body.innerText;
+ *      const re=/Day (\d+)\n([A-Z][a-z]{2}, \d{1,2} \w{3} \d{4})\n·\s*(\d+)\s*materials?/g;
+ *      const o=[];let m;while((m=re.exec(t)))o.push([+m[1],+m[3]]);return o;};
+ *    const acc=new Map();
+ *    for(const b of [...document.querySelectorAll('button')].filter(b=>M.test(b.textContent.trim()))){
+ *      for(let i=0;i<3;i++){b.click();await new Promise(r=>setTimeout(r,600));
+ *        const rows=grab();if(rows.length){for(const[d,c]of rows)acc.set(d,c);break;}}}
+ *    return [...acc.entries()].sort((a,b)=>a[0]-b[0]).map(([d,c])=>d+':'+c).join(',');})()
  *
- * Requiring the date line between "Day N" and the materials count matters:
- * a looser scan pairs counts with the wrong day, because stray "Day N" tokens
+ * Two things about that snippet are load-bearing.
+ *
+ * It opens each month and banks that month's rows before moving on, rather
+ * than expanding everything and reading the page once. The months are an
+ * accordion: opening one closes others, so "expand them all, then scrape"
+ * silently returns whichever few happen to be open. It read 9 of 182 days
+ * that way and would have reported the archive as nearly empty.
+ *
+ * And it requires the date line between "Day N" and the materials count. A
+ * looser scan pairs counts with the wrong day, because stray "Day N" tokens
  * in the month navigation overwrite the current day first. That produced a
  * silent off-by-two once.
  *
