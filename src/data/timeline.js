@@ -19,6 +19,46 @@ export const STRANDS = {
 
 export const timeline = [
   {
+    date: '2026-10-12',
+    strand: 'legal',
+    certainty: 'documented',
+    title: 'Sibiya resigns from SAPS during his disciplinary hearing',
+    body: 'Lt-Gen Shadrack Sibiya resigns from the police. SAPS says his legal representative tendered the resignation shortly after his disciplinary hearing opened, and that his employment was terminated with immediate effect. Because the proceedings were pending when he quit, SAPS spokesperson Brig Athlenda Mathe says the departure "is therefore regarded as a dishonourable discharge". He had faced seven disciplinary charges, reported to include his dealings with Vusimuzi "Cat" Matlala, the handling of confidential police information and alleged interference in investigations — none of which were tested, because the hearing ended with the resignation. His separate criminal case is unaffected and continues.',
+    people: ['sibiya', 'matlala'],
+  },
+  {
+    date: '2026-10-08',
+    strand: 'hearings',
+    certainty: 'documented',
+    title: 'Commission sits behind closed doors; public hearings paused',
+    body: 'The commission moves to in-camera sittings to take evidence that cannot be aired because of ongoing investigations or confidential material. Spokesperson Jeremy Michaels says that "due to security considerations, the Commission will not be releasing details of the appearances of in-camera witnesses", so this index cannot record who testified or what was said during this period — a gap in the record, not an absence of proceedings. Public hearings are reported to resume in November.',
+    people: ['the-commission'],
+  },
+  {
+    date: '2026-10-06',
+    strand: 'hearings',
+    certainty: 'documented',
+    title: 'Khan appears but cannot testify; postponed indefinitely',
+    body: 'Feroz Khan appears remotely and in camera, to be questioned about evidence led in his absence. He does not testify. Spokesperson Jeremy Michaels says only that "Mr Khan is not in a position to testify today", the night after a relative of his was shot dead. The commission postpones his evidence to a date yet to be determined. The chair had already ruled on 28 September that the subpoena was lawfully issued and that Khan had failed to comply with it, directing the secretary to pursue charges; that ruling is not disturbed.',
+    people: ['feroz-khan', 'the-commission', 'madlanga'],
+  },
+  {
+    date: '2026-10-05',
+    strand: 'safety',
+    certainty: 'documented',
+    title: 'Khan’s uncle-in-law shot dead the night before his testimony',
+    body: 'Preggy Padayachee, an uncle-in-law of Feroz Khan, is shot dead on the R21 in Gauteng on the Monday evening, hours before Khan was due to be questioned by the commission. Police say a driver whose Fiat had broken down called a friend, who arrived with two others, and that gunmen opened fire while they were at the vehicle; Padayachee lost control, struck a barrier and died at the scene, and another man was wounded. It is being investigated as murder and attempted murder, no arrests have been reported, and no motive has been established — no link to the commission has been demonstrated, and the connection recorded here is one of timing and family only. He is not Brian Padayachee, the witness who gave evidence in July 2026; the shared surname is coincidence.',
+    people: ['feroz-khan'],
+  },
+  {
+    date: '2026-09-19',
+    strand: 'legal',
+    certainty: 'documented',
+    title: 'Ramaphosa extends the final report deadline to January 2027',
+    body: 'The Presidency announces that President Cyril Ramaphosa "has extended — to Monday, 25 January 2027 — the deadline for the submission of the final report", saying the new date "allows the Commission to process additional evidence", including testimony from experts who made recommendations on its terms of reference. The Presidency headlines it as a final extension, though the statement itself does not use the word. Two interim reports have already gone to the President.',
+    people: ['ramaphosa', 'the-commission'],
+  },
+  {
     date: '2024-12-31',
     strand: 'origin',
     certainty: 'documented',

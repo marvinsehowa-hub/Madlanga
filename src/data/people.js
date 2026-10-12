@@ -260,20 +260,21 @@ export const people = [
   {
     id: 'sibiya',
     name: 'Lt-Gen Shadrack Sibiya',
-    role: 'Deputy National Commissioner: Crime Detection',
-    org: 'SAPS',
+    role: 'Former Deputy National Commissioner: Crime Detection',
+    org: 'SAPS (resigned 12 Oct 2026)',
     category: 'accused',
     severity: 'central',
-    status: 'Suspended; in custody, bail hearing part-heard (29 Sep 2026)',
+    status:
+      'Resigned from SAPS 12 Oct 2026, which SAPS treats as a dishonourable discharge; in custody, criminal case continuing',
     appearance: {
       status: 'in-custody',
       date: '2026-09-29',
       clip: 'ZEs9dfqaV1Q',
       detail:
-        'Now a criminal defendant in his own right rather than only a commission witness. He was in custody as of 29 September 2026 with his bail hearing part-heard; his counsel pressed the state to expedite it. What he is charged with is not stated in the published clip record.',
+        'Now a criminal defendant in his own right rather than only a commission witness. He was in custody as of 29 September 2026 with his bail hearing part-heard; his counsel pressed the state to expedite it. The criminal case is separate from the commission and is not about the PKTT: he was arrested on 21 September 2026 and faces charges in the Randburg Magistrate\'s Court reported to include rape, human trafficking and the sexual grooming of a minor. Reports differ on the number of counts, and none of it has been tested in court. It is recorded here because it is why he is in custody, not because the commission has heard anything about it.',
     },
     summary:
-      'Accused of carrying out the instruction to close the PKTT and of taking possession of its case dockets, and placed at the centre of questions about interference in a live murder investigation. By late September 2026 the suspended deputy national commissioner was himself in custody, with a bail hearing running in parallel to the inquiry.',
+      'Accused of carrying out the instruction to close the PKTT and of taking possession of its case dockets, and placed at the centre of questions about interference in a live murder investigation. By late September 2026 the suspended deputy national commissioner was himself in custody on unrelated criminal charges. On 12 October 2026 he resigned from the police shortly after his disciplinary hearing opened, ending those proceedings before any of the seven charges against him were tested; SAPS regards the departure as a dishonourable discharge.',
     allegations: [
       {
         what: 'Alleged to have implemented the disbandment of the PKTT and to have had its dockets removed to his office.',
@@ -382,13 +383,14 @@ export const people = [
     org: 'SAPS (former)',
     category: 'accused',
     severity: 'implicated',
-    status: 'Subpoena ignored; commission to lay criminal charges (28 Sep 2026)',
+    status:
+      'Appeared 6 Oct 2026 but did not testify; postponed to a date yet to be determined. Subpoena finding of 28 Sep 2026 stands',
     appearance: {
-      status: 'subpoena-ignored',
-      date: '2026-09-28',
+      status: 'postponed',
+      date: '2026-10-06',
       clip: 'cYtnoSGmGO8',
       detail:
-        "The chair expressed frustration that Khan's legal team failed to appear virtually and ignored a subpoena. The commission said the same day that it will lay criminal charges against him over the failure to comply. He has still never given evidence, more than a year after first being named.",
+        "On 28 September 2026 the chair found the subpoena had been lawfully issued and that Khan had failed to comply with it, directing the commission's secretary to pursue charges. He then appeared remotely and in camera on 6 October to be questioned about evidence led in his absence, but did not testify: an uncle-in-law of his had been shot dead on the R21 the night before, and the commission said only that he was \"not in a position to testify today\". His evidence is postponed to a date yet to be determined. He has still never given evidence, more than a year after first being named.",
     },
     summary:
       'Named on Day 3 of the hearings in relation to a police drug operation that was allegedly foiled, and again in 2026 when a witness was ordered to clarify a remark about him.',
