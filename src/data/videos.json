@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-12T12:35:43.073Z",
+  "scrapedAt": "2026-10-13T19:47:44.457Z",
   "channel": "https://www.youtube.com/@newslivesa/playlists",
   "playlists": [
     {
@@ -54,7 +54,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
     },
@@ -77,7 +77,7 @@
       "hearingDay": null,
       "kind": "session",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -100,7 +100,7 @@
       "hearingDay": null,
       "kind": "session",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -124,7 +124,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -147,7 +147,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
     },
@@ -170,7 +170,7 @@
       "hearingDay": null,
       "kind": "session",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
@@ -194,7 +194,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -216,7 +216,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -240,7 +240,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -263,7 +263,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
     },
@@ -287,7 +287,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
     },
@@ -310,7 +310,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
@@ -334,7 +334,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -357,7 +357,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
@@ -381,7 +381,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
@@ -404,7 +404,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -428,7 +428,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
     },
@@ -451,7 +451,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -473,7 +473,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -495,7 +495,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -517,7 +517,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -539,7 +539,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -561,7 +561,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -583,7 +583,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -605,7 +605,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -629,7 +629,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
     },
@@ -653,7 +653,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
     },
@@ -676,7 +676,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
@@ -700,7 +700,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
@@ -723,7 +723,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -745,7 +745,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -769,7 +769,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -790,7 +790,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -812,7 +812,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -834,7 +834,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -858,7 +858,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -881,7 +881,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -904,7 +904,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -927,7 +927,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -950,7 +950,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -973,7 +973,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
     },
@@ -995,7 +995,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1019,7 +1019,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
     },
@@ -1043,7 +1043,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1064,7 +1064,7 @@
       "dateFrozenAt": "2026-09-29",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
@@ -1089,7 +1089,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1112,7 +1112,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1135,7 +1135,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1158,7 +1158,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1181,7 +1181,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1204,7 +1204,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1227,7 +1227,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1250,7 +1250,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1273,7 +1273,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1296,7 +1296,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1319,7 +1319,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1342,7 +1342,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1365,7 +1365,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1388,7 +1388,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1411,7 +1411,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1432,7 +1432,7 @@
       "dateFrozenAt": "2026-09-03",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "dateConfirmedAt": "2026-10-07",
       "source": "newslivesa-youtube"
@@ -1455,7 +1455,7 @@
       "dateFrozenAt": "2026-09-03",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1477,7 +1477,7 @@
       "dateFrozenAt": "2026-09-03",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1499,7 +1499,7 @@
       "dateFrozenAt": "2026-09-03",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1521,7 +1521,7 @@
       "dateFrozenAt": "2026-09-03",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1543,7 +1543,7 @@
       "dateFrozenAt": "2026-09-03",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1565,7 +1565,7 @@
       "dateFrozenAt": "2026-09-03",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1587,7 +1587,7 @@
       "dateFrozenAt": "2026-09-03",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1609,7 +1609,7 @@
       "dateFrozenAt": "2026-09-03",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1631,7 +1631,7 @@
       "dateFrozenAt": "2026-09-03",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1653,7 +1653,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1675,7 +1675,7 @@
       "dateFrozenAt": "2026-09-03",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1697,7 +1697,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1719,7 +1719,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1741,7 +1741,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1763,7 +1763,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1785,7 +1785,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1808,7 +1808,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1831,7 +1831,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1853,7 +1853,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1875,7 +1875,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1897,7 +1897,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1921,7 +1921,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -1942,7 +1942,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1964,7 +1964,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -1986,7 +1986,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -2008,7 +2008,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -2030,7 +2030,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -2052,7 +2052,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -2076,7 +2076,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2097,7 +2097,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -2119,7 +2119,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -2141,7 +2141,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -2165,7 +2165,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2188,7 +2188,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2209,7 +2209,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -2231,7 +2231,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -2253,7 +2253,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -2276,7 +2276,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -2299,7 +2299,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -2323,7 +2323,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2346,7 +2346,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2369,7 +2369,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2392,7 +2392,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2415,7 +2415,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2438,7 +2438,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2461,7 +2461,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2484,7 +2484,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2507,7 +2507,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2530,7 +2530,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2553,7 +2553,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2576,7 +2576,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2599,7 +2599,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2622,7 +2622,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2645,7 +2645,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2668,7 +2668,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2691,7 +2691,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2714,7 +2714,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2737,7 +2737,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2760,7 +2760,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2783,7 +2783,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2806,7 +2806,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2829,7 +2829,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2852,7 +2852,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2875,7 +2875,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2898,7 +2898,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2921,7 +2921,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2944,7 +2944,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2967,7 +2967,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -2990,7 +2990,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -3013,7 +3013,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -3036,7 +3036,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -3059,7 +3059,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -3082,7 +3082,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -3105,7 +3105,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -3128,7 +3128,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -3149,7 +3149,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3171,7 +3171,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3193,7 +3193,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3216,7 +3216,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3239,7 +3239,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3262,7 +3262,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3285,7 +3285,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3307,7 +3307,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3329,7 +3329,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3351,7 +3351,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3373,7 +3373,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3395,7 +3395,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3417,7 +3417,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3441,7 +3441,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3464,7 +3464,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3487,7 +3487,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3510,7 +3510,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3532,7 +3532,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3554,7 +3554,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3576,7 +3576,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3598,7 +3598,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3621,7 +3621,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3644,7 +3644,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3666,7 +3666,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3688,7 +3688,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3711,7 +3711,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3734,7 +3734,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3757,7 +3757,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3779,7 +3779,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3802,7 +3802,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3824,7 +3824,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3847,7 +3847,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3869,7 +3869,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3891,7 +3891,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3913,7 +3913,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3935,7 +3935,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -3959,7 +3959,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -3980,7 +3980,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4002,7 +4002,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4024,7 +4024,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4046,7 +4046,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4068,7 +4068,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4090,7 +4090,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4114,7 +4114,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4137,7 +4137,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4160,7 +4160,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4183,7 +4183,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4206,7 +4206,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4229,7 +4229,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4252,7 +4252,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4275,7 +4275,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4298,7 +4298,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4321,7 +4321,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4344,7 +4344,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4367,7 +4367,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4390,7 +4390,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4413,7 +4413,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4436,7 +4436,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4459,7 +4459,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4482,7 +4482,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4505,7 +4505,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4528,7 +4528,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4551,7 +4551,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4574,7 +4574,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4597,7 +4597,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4620,7 +4620,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4643,7 +4643,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4666,7 +4666,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -4687,7 +4687,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4709,7 +4709,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4731,7 +4731,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4753,7 +4753,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4775,7 +4775,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4797,7 +4797,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4819,7 +4819,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4841,7 +4841,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4863,7 +4863,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 118,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4885,7 +4885,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 118,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4907,7 +4907,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4929,7 +4929,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 117,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4951,7 +4951,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4973,7 +4973,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -4995,7 +4995,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5017,7 +5017,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5039,7 +5039,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5061,7 +5061,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5083,7 +5083,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5105,7 +5105,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5128,7 +5128,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5151,7 +5151,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5174,7 +5174,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5197,7 +5197,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5220,7 +5220,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5243,7 +5243,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5266,7 +5266,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5289,7 +5289,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5312,7 +5312,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5334,7 +5334,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5356,7 +5356,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5378,7 +5378,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5400,7 +5400,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5422,7 +5422,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5444,7 +5444,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5466,7 +5466,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5488,7 +5488,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5510,7 +5510,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5534,7 +5534,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5557,7 +5557,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5580,7 +5580,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5603,7 +5603,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5626,7 +5626,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5649,7 +5649,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5672,7 +5672,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5695,7 +5695,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5718,7 +5718,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5741,7 +5741,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5764,7 +5764,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5787,7 +5787,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5810,7 +5810,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5833,7 +5833,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5856,7 +5856,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5879,7 +5879,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5902,7 +5902,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -5924,7 +5924,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5946,7 +5946,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5968,7 +5968,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -5990,7 +5990,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6012,7 +6012,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6034,7 +6034,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6056,7 +6056,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6078,7 +6078,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6100,7 +6100,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6122,7 +6122,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6146,7 +6146,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6168,7 +6168,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6191,7 +6191,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6214,7 +6214,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6237,7 +6237,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6259,7 +6259,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6281,7 +6281,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6304,7 +6304,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6326,7 +6326,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6349,7 +6349,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6372,7 +6372,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6395,7 +6395,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6418,7 +6418,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6440,7 +6440,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6462,7 +6462,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6484,7 +6484,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6506,7 +6506,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6528,7 +6528,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6550,7 +6550,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6572,7 +6572,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -6596,7 +6596,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6619,7 +6619,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6642,7 +6642,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6665,7 +6665,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6688,7 +6688,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6711,7 +6711,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6734,7 +6734,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6757,7 +6757,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6780,7 +6780,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6803,7 +6803,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6826,7 +6826,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6849,7 +6849,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6872,7 +6872,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6895,7 +6895,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6918,7 +6918,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6941,7 +6941,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6964,7 +6964,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -6987,7 +6987,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -7010,7 +7010,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -7033,7 +7033,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -7056,7 +7056,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -7079,7 +7079,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -7102,7 +7102,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -7125,7 +7125,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -7148,7 +7148,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -7171,7 +7171,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -7194,7 +7194,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -7217,7 +7217,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -7240,7 +7240,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -7261,7 +7261,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7283,7 +7283,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7305,7 +7305,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7327,7 +7327,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7349,7 +7349,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7371,7 +7371,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7393,7 +7393,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7415,7 +7415,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 89,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7437,7 +7437,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7459,7 +7459,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7481,7 +7481,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7503,7 +7503,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7525,7 +7525,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7547,7 +7547,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7569,7 +7569,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7591,7 +7591,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7613,7 +7613,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7637,7 +7637,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -7658,7 +7658,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7680,7 +7680,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7703,7 +7703,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7726,7 +7726,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7749,7 +7749,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7772,7 +7772,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7795,7 +7795,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7818,7 +7818,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7840,7 +7840,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7863,7 +7863,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7886,7 +7886,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7909,7 +7909,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7931,7 +7931,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7953,7 +7953,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7975,7 +7975,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -7997,7 +7997,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -8019,7 +8019,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -8041,7 +8041,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -8063,7 +8063,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -8087,7 +8087,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8108,7 +8108,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -8130,7 +8130,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -8152,7 +8152,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 85,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -8174,7 +8174,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -8198,7 +8198,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8221,7 +8221,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8244,7 +8244,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8267,7 +8267,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8290,7 +8290,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8313,7 +8313,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8336,7 +8336,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8359,7 +8359,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8382,7 +8382,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8405,7 +8405,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8428,7 +8428,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8451,7 +8451,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8474,7 +8474,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8497,7 +8497,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8520,7 +8520,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8543,7 +8543,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8566,7 +8566,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8589,7 +8589,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8612,7 +8612,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8635,7 +8635,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8658,7 +8658,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8681,7 +8681,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8704,7 +8704,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8727,7 +8727,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8750,7 +8750,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8773,7 +8773,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8796,7 +8796,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8819,7 +8819,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8842,7 +8842,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8865,7 +8865,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8888,7 +8888,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8911,7 +8911,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -8932,7 +8932,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -8954,7 +8954,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -8976,7 +8976,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -8998,7 +8998,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9020,7 +9020,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9042,7 +9042,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9064,7 +9064,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9086,7 +9086,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9108,7 +9108,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9130,7 +9130,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9152,7 +9152,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9174,7 +9174,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9196,7 +9196,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 69,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9219,7 +9219,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9242,7 +9242,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9265,7 +9265,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9287,7 +9287,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9310,7 +9310,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9333,7 +9333,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9356,7 +9356,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9379,7 +9379,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9402,7 +9402,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9425,7 +9425,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9448,7 +9448,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9471,7 +9471,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9494,7 +9494,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9517,7 +9517,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9539,7 +9539,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9561,7 +9561,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9584,7 +9584,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9607,7 +9607,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9630,7 +9630,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9652,7 +9652,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9674,7 +9674,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9697,7 +9697,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9719,7 +9719,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9742,7 +9742,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -9766,7 +9766,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -9789,7 +9789,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -9812,7 +9812,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -9835,7 +9835,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -9858,7 +9858,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -9881,7 +9881,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -9904,7 +9904,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -9927,7 +9927,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -9950,7 +9950,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -9973,7 +9973,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -9996,7 +9996,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10042,7 +10042,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10065,7 +10065,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10088,7 +10088,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10111,7 +10111,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10134,7 +10134,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10157,7 +10157,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10180,7 +10180,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10203,7 +10203,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10226,7 +10226,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10249,7 +10249,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10272,7 +10272,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10295,7 +10295,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10341,7 +10341,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10364,7 +10364,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10387,7 +10387,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10410,7 +10410,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10433,7 +10433,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10456,7 +10456,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -10477,7 +10477,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10499,7 +10499,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 69,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10521,7 +10521,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10543,7 +10543,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 66,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10565,7 +10565,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10587,7 +10587,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10609,7 +10609,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10631,7 +10631,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10653,7 +10653,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10675,7 +10675,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10697,7 +10697,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10719,7 +10719,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10741,7 +10741,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10763,7 +10763,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10785,7 +10785,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10807,7 +10807,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10829,7 +10829,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10851,7 +10851,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10873,7 +10873,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10895,7 +10895,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10917,7 +10917,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10939,7 +10939,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 67,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10961,7 +10961,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 66,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -10983,7 +10983,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11005,7 +11005,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 66,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11027,7 +11027,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 65,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11050,7 +11050,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11073,7 +11073,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11095,7 +11095,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11117,7 +11117,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11139,7 +11139,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11163,7 +11163,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11185,7 +11185,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": 60,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11207,7 +11207,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 60,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11229,7 +11229,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 60,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11251,7 +11251,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 59,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11273,7 +11273,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 59,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11295,7 +11295,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11317,7 +11317,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 58,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11339,7 +11339,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 57,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11361,7 +11361,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11383,7 +11383,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 56,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11405,7 +11405,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11429,7 +11429,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11452,7 +11452,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11475,7 +11475,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11498,7 +11498,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11521,7 +11521,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11544,7 +11544,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11567,7 +11567,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11590,7 +11590,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11613,7 +11613,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11636,7 +11636,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11659,7 +11659,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11682,7 +11682,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11705,7 +11705,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11728,7 +11728,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11751,7 +11751,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11774,7 +11774,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11797,7 +11797,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11820,7 +11820,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11843,7 +11843,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11866,7 +11866,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11889,7 +11889,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11910,7 +11910,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11934,7 +11934,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -11955,7 +11955,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11977,7 +11977,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -11999,7 +11999,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12021,7 +12021,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12043,7 +12043,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12065,7 +12065,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12087,7 +12087,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12109,7 +12109,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12131,7 +12131,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12153,7 +12153,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 47,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12175,7 +12175,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12197,7 +12197,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12219,7 +12219,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12241,7 +12241,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12263,7 +12263,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12285,7 +12285,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12307,7 +12307,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12329,7 +12329,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12351,7 +12351,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12373,7 +12373,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12395,7 +12395,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12417,7 +12417,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12439,7 +12439,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12461,7 +12461,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12483,7 +12483,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12507,7 +12507,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -12530,7 +12530,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -12551,7 +12551,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12573,7 +12573,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12595,7 +12595,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12617,7 +12617,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12639,7 +12639,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12661,7 +12661,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12683,7 +12683,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12706,7 +12706,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12729,7 +12729,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12752,7 +12752,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12775,7 +12775,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -12799,7 +12799,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -12822,7 +12822,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -12845,7 +12845,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -12868,7 +12868,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -12891,7 +12891,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -12914,7 +12914,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -12937,7 +12937,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -12960,7 +12960,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -12983,7 +12983,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13006,7 +13006,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13029,7 +13029,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13052,7 +13052,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13075,7 +13075,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13098,7 +13098,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13121,7 +13121,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13144,7 +13144,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13167,7 +13167,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13190,7 +13190,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13213,7 +13213,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13236,7 +13236,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13259,7 +13259,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13282,7 +13282,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13305,7 +13305,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13328,7 +13328,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13351,7 +13351,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13374,7 +13374,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13397,7 +13397,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13420,7 +13420,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13443,7 +13443,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13466,7 +13466,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -13487,7 +13487,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13509,7 +13509,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13531,7 +13531,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13553,7 +13553,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13575,7 +13575,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13597,7 +13597,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13619,7 +13619,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13641,7 +13641,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13663,7 +13663,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13685,7 +13685,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13707,7 +13707,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13729,7 +13729,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13751,7 +13751,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13773,7 +13773,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13795,7 +13795,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13817,7 +13817,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13839,7 +13839,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13861,7 +13861,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13883,7 +13883,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13905,7 +13905,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13927,7 +13927,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13949,7 +13949,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13971,7 +13971,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -13993,7 +13993,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14015,7 +14015,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14037,7 +14037,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14059,7 +14059,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14081,7 +14081,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14103,7 +14103,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14125,7 +14125,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14147,7 +14147,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14170,7 +14170,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14194,7 +14194,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14215,7 +14215,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14237,7 +14237,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14259,7 +14259,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14281,7 +14281,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14303,7 +14303,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14325,7 +14325,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14347,7 +14347,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14369,7 +14369,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14391,7 +14391,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14413,7 +14413,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -14437,7 +14437,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14460,7 +14460,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14483,7 +14483,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14506,7 +14506,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14529,7 +14529,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14552,7 +14552,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14575,7 +14575,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14598,7 +14598,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14621,7 +14621,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14644,7 +14644,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14667,7 +14667,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14690,7 +14690,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14713,7 +14713,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14736,7 +14736,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14759,7 +14759,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14782,7 +14782,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14805,7 +14805,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14828,7 +14828,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14851,7 +14851,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14874,7 +14874,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14897,7 +14897,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14920,7 +14920,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14943,7 +14943,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14966,7 +14966,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -14989,7 +14989,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15012,7 +15012,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15035,7 +15035,7 @@
       "hearingDay": 2,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15058,7 +15058,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15081,7 +15081,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15104,7 +15104,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15127,7 +15127,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15150,7 +15150,7 @@
       "hearingDay": null,
       "kind": "session",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15173,7 +15173,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15196,7 +15196,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15219,7 +15219,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15242,7 +15242,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15265,7 +15265,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15288,7 +15288,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15311,7 +15311,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15334,7 +15334,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15357,7 +15357,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15380,7 +15380,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15403,7 +15403,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15426,7 +15426,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15449,7 +15449,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15472,7 +15472,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15495,7 +15495,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15518,7 +15518,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15541,7 +15541,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15564,7 +15564,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15587,7 +15587,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15610,7 +15610,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15633,7 +15633,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15656,7 +15656,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15679,7 +15679,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15702,7 +15702,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15725,7 +15725,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15748,7 +15748,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15771,7 +15771,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15794,7 +15794,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15817,7 +15817,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15838,7 +15838,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -15860,7 +15860,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -15884,7 +15884,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -15905,7 +15905,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -15927,7 +15927,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -15949,7 +15949,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -15971,7 +15971,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -15993,7 +15993,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16015,7 +16015,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16037,7 +16037,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16059,7 +16059,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16081,7 +16081,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16103,7 +16103,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16125,7 +16125,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16147,7 +16147,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16169,7 +16169,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 2,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16191,7 +16191,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16213,7 +16213,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16235,7 +16235,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16257,7 +16257,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16279,7 +16279,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16301,7 +16301,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16323,7 +16323,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16345,7 +16345,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16367,7 +16367,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16389,7 +16389,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16411,7 +16411,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16433,7 +16433,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16455,7 +16455,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16477,7 +16477,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16499,7 +16499,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16521,7 +16521,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16543,7 +16543,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16565,7 +16565,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16587,7 +16587,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 3,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16609,7 +16609,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16631,7 +16631,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16653,7 +16653,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16675,7 +16675,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16698,7 +16698,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -16722,7 +16722,7 @@
       "hearingDay": null,
       "kind": "session",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -16745,7 +16745,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -16768,7 +16768,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -16791,7 +16791,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -16814,7 +16814,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -16837,7 +16837,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -16860,7 +16860,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -16883,7 +16883,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -16906,7 +16906,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -16929,7 +16929,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -16952,7 +16952,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -16975,7 +16975,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -16998,7 +16998,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17021,7 +17021,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17044,7 +17044,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17067,7 +17067,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17090,7 +17090,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17113,7 +17113,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17136,7 +17136,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17159,7 +17159,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17182,7 +17182,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17205,7 +17205,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17228,7 +17228,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17251,7 +17251,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17274,7 +17274,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17297,7 +17297,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17320,7 +17320,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17343,7 +17343,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17366,7 +17366,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17389,7 +17389,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17412,7 +17412,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17435,7 +17435,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17458,7 +17458,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17481,7 +17481,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17504,7 +17504,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17527,7 +17527,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17550,7 +17550,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17573,7 +17573,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17596,7 +17596,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17619,7 +17619,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17642,7 +17642,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17665,7 +17665,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17688,7 +17688,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17711,7 +17711,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17734,7 +17734,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17757,7 +17757,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17780,7 +17780,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17803,7 +17803,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17826,7 +17826,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17849,7 +17849,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17872,7 +17872,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17895,7 +17895,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17918,7 +17918,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17941,7 +17941,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17964,7 +17964,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -17987,7 +17987,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -18010,7 +18010,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -18033,7 +18033,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -18056,7 +18056,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -18079,7 +18079,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -18100,7 +18100,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18122,7 +18122,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 7,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18144,7 +18144,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 6,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18166,7 +18166,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18188,7 +18188,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18210,7 +18210,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 1,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18232,7 +18232,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": 3,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18254,7 +18254,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18276,7 +18276,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18298,7 +18298,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18320,7 +18320,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18342,7 +18342,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18364,7 +18364,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18387,7 +18387,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18410,7 +18410,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": 3,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18433,7 +18433,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": 3,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18456,7 +18456,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18479,7 +18479,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18502,7 +18502,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18525,7 +18525,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18548,7 +18548,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18571,7 +18571,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18594,7 +18594,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18617,7 +18617,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18640,7 +18640,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18663,7 +18663,7 @@
       "dateFrozenAt": "2026-08-26",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18685,7 +18685,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18707,7 +18707,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18729,7 +18729,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18751,7 +18751,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18773,7 +18773,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18795,7 +18795,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18817,7 +18817,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18839,7 +18839,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18861,7 +18861,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18883,7 +18883,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18905,7 +18905,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "session",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     },
@@ -18929,7 +18929,7 @@
       "hearingDay": null,
       "kind": "clip",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "source": "newslivesa-youtube"
     },
     {
@@ -18950,7 +18950,7 @@
       "dateFrozenAt": "2026-08-27",
       "hearingDay": null,
       "kind": "clip",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "liveNow": false,
       "source": "newslivesa-youtube"
     }

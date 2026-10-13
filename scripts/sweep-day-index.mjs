@@ -19,17 +19,28 @@
  *      const o=[];let m;while((m=re.exec(t)))o.push([+m[1],+m[3]]);return o;};
  *    const acc=new Map();
  *    for(const b of [...document.querySelectorAll('button')].filter(b=>M.test(b.textContent.trim()))){
- *      for(let i=0;i<3;i++){b.click();await new Promise(r=>setTimeout(r,600));
- *        const rows=grab();if(rows.length){for(const[d,c]of rows)acc.set(d,c);break;}}}
+ *      for(let i=0;i<4;i++){
+ *        b.click();await new Promise(r=>setTimeout(r,1100));const a=grab();
+ *        await new Promise(r=>setTimeout(r,400));const c=grab();
+ *        if(c.length&&JSON.stringify(a)===JSON.stringify(c)){
+ *          for(const[d,n]of c)acc.set(d,n);break;}}}
  *    return [...acc.entries()].sort((a,b)=>a[0]-b[0]).map(([d,c])=>d+':'+c).join(',');})()
  *
- * Two things about that snippet are load-bearing.
+ * Three things about that snippet are load-bearing.
  *
  * It opens each month and banks that month's rows before moving on, rather
  * than expanding everything and reading the page once. The months are an
  * accordion: opening one closes others, so "expand them all, then scrape"
  * silently returns whichever few happen to be open. It read 9 of 182 days
  * that way and would have reported the archive as nearly empty.
+ *
+ * It reads each month twice and only banks the rows when both reads agree.
+ * A month that is still rendering reports days with their counts not yet
+ * filled in - the day is there, the materials line reads 0. A single read
+ * returned 322 materials instead of 402, with about forty days showing 0
+ * that in fact hold two or three items each. That is the dangerous failure,
+ * because unlike a missing month it looks exactly like the commission
+ * having withdrawn material.
  *
  * And it requires the date line between "Day N" and the materials count. A
  * looser scan pairs counts with the wrong day, because stray "Day N" tokens
@@ -109,6 +120,20 @@ if (gained.length) {
   console.log();
 }
 if (lost.length) {
+  // A half-rendered month reports its days with the materials line not yet
+  // filled in, so the count reads 0. That is indistinguishable, day by day,
+  // from the commission having pulled the material down - except that it
+  // happens to many days at once and always lands on exactly 0. Say so
+  // loudly rather than letting the list be read as a takedown.
+  const toZero = lost.filter((l) => l.to === 0);
+  if (toZero.length >= 5) {
+    console.log(
+      `LIKELY A BAD CAPTURE: ${toZero.length} days dropped to exactly 0.\n` +
+        '  That is the signature of a page read while it was still rendering,\n' +
+        '  not of material being withdrawn. Re-run the capture before believing\n' +
+        '  any of the removals below.\n'
+    );
+  }
   console.log(`MATERIALS REMOVED (${lost.length}) - verify before believing:`);
   for (const l of lost) {
     console.log(`  Day ${String(l.day).padStart(3)}  ${l.from} -> ${l.to}   ${label(l.day)}`);

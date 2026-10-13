@@ -19,6 +19,14 @@ export const STRANDS = {
 
 export const timeline = [
   {
+    date: '2026-10-13',
+    strand: 'hearings',
+    certainty: 'documented',
+    title: 'A sitting day with nothing published',
+    body: 'The commission registers Day 183 on its own hearing index. Like Day 182 on 6 October, it carries no videos, no transcript, no statements — zero materials. The closed-door sittings are still being numbered as hearing days, so the inquiry has not paused; what has paused is the public record of it. The only in-camera witness the commission has named is Witness S, a Crime Intelligence officer, and it has said it will not identify the others. Days 182 and 183 are therefore real sittings this index can count but cannot describe.',
+    people: ['the-commission'],
+  },
+  {
     date: '2026-10-12',
     strand: 'legal',
     certainty: 'documented',
@@ -31,8 +39,8 @@ export const timeline = [
     strand: 'hearings',
     certainty: 'documented',
     title: 'Commission sits behind closed doors; public hearings paused',
-    body: 'The commission moves to in-camera sittings to take evidence that cannot be aired because of ongoing investigations or confidential material. Spokesperson Jeremy Michaels says that "due to security considerations, the Commission will not be releasing details of the appearances of in-camera witnesses", so this index cannot record who testified or what was said during this period — a gap in the record, not an absence of proceedings. Public hearings are reported to resume in November.',
-    people: ['the-commission'],
+    body: 'The commission moves to in-camera sittings to take evidence that cannot be aired because of ongoing investigations or confidential material. The chair rules that a witness identified only as Witness S, a Crime Intelligence officer, must give evidence in closed session, and bars publication of that witness\'s identity, occupation or anything that could reveal it. Spokesperson Jeremy Michaels says that "due to security considerations, the Commission will not be releasing details of the appearances of in-camera witnesses", so this index cannot record who testified or what was said during this period — a gap in the record, not an absence of proceedings. Public hearings are reported to resume in November.',
+    people: ['the-commission', 'madlanga'],
   },
   {
     date: '2026-10-06',
