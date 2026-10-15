@@ -19,6 +19,14 @@ export const STRANDS = {
 
 export const timeline = [
   {
+    date: '2026-10-15',
+    strand: 'legal',
+    certainty: 'documented',
+    title: 'Sibiya bail judgment reserved to 20 October',
+    body: 'Magistrate Hleziphi Mkhasibe reserves judgment on Sibiya\'s bail application to Tuesday 20 October, saying she needs more time to consider the volume of documents put before her. He stays in custody at Kgosi Mampuru until then. Opposing release, the state argued he could flee the country, intimidate witnesses or interfere with evidence, and alleged that he threatened the father of the 16-year-old he is accused of grooming and that people linked to him tried to persuade a complainant to drop the charges. Those are the prosecution\'s submissions in a bail hearing, not findings, and the defence disputes them. None of this is commission evidence; it is recorded because it is why a central figure in the inquiry cannot be called.',
+    people: ['sibiya'],
+  },
+  {
     date: '2026-10-13',
     strand: 'hearings',
     certainty: 'documented',

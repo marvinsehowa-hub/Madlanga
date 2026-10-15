@@ -1,6 +1,6 @@
 {
   "source": "https://criminaljusticecommission.org.za/hearings",
-  "capturedAt": "2026-10-13",
+  "capturedAt": "2026-10-15",
   "note": "Official sitting-day index as published by the commission. 182 days, 2025-09-17 to 2026-10-06. 173 carry witness attribution; 402 materials in total across all days. Witness/evidenceLeader strings are reproduced as published, including their typos. Material TYPES were not captured in this scrape - only counts. Days 6, 14 and 56 were confirmed by hand from the site and carry types/transcript flags; the rest do not, so a materials count above zero does NOT imply a transcript exists.",
   "days": [
     {
