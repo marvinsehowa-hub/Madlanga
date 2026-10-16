@@ -69,6 +69,14 @@ export const APPEARANCE = {
     outstanding: true,
     tone: 'amber',
   },
+  // Distinct from 'in-custody', which covers someone held on a matter that has
+  // nothing to do with the inquiry. This is custody arising from the inquiry
+  // itself - the commission's process reaching a person who would not come.
+  arrested: {
+    label: 'Arrested over non-appearance',
+    outstanding: true,
+    tone: 'red',
+  },
   'subpoena-ignored': {
     label: 'Subpoena ignored',
     outstanding: true,
@@ -831,13 +839,21 @@ export const people = [
   {
     id: 'carrim',
     name: 'Suliman Carrim',
-    role: 'Witness',
+    aka: 'former ANC North West regional treasurer',
+    role: 'Businessman; witness',
     org: '—',
     category: 'accused',
     severity: 'named',
-    status: 'Testified (March 2026)',
+    status:
+      'Gave evidence March 2026; did not return for further questioning. Arrested 15 Oct 2026 over the non-appearance',
+    appearance: {
+      status: 'arrested',
+      date: '2026-10-15',
+      detail:
+        'He gave evidence in March 2026, then did not come back for further questioning. After a run of postponement requests on medical grounds, the chair refused an indefinite postponement on 29 July and ordered him to appear in person on 14 August, with any further delay conditional on his agreeing to be examined by a jointly chosen specialist. He did not appear on 14 August and declined the independent examination, filing a further report from his own doctor instead; the commission said it was minded to refer him for prosecution. He was arrested on the evening of 15 October at OR Tambo, shortly before an international flight, and was due in the Pretoria Magistrate\'s Court the next day. Police confirmed an arrest "for failing to appear before the Madlanga Commission of Inquiry" but did not publicly name the man; the identification is carried by multiple news outlets rather than by the police. Whether he was leaving the country to avoid the commission has not been established, and he had not responded publicly.',
+    },
     summary:
-      'Told the commission that Matlala and Mogotsi had "played" him. His legal team had a heated exchange with the chair.',
+      'Told the commission that Matlala and Mogotsi had "played" him, and described a loan of around R10 million to Matlala, whose company held the disputed SAPS health-services contract. His legal team had a heated exchange with the chair. He never returned for further questioning, and by October 2026 his non-appearance had become the subject of a criminal arrest.',
     allegations: [
       {
         what: 'Dealings with Matlala and Mogotsi, which he characterised as having been manipulated.',
