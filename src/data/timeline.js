@@ -22,6 +22,14 @@ export const timeline = [
     date: '2026-10-15',
     strand: 'legal',
     certainty: 'documented',
+    title: 'Commission denies being reachable, after audio played in court',
+    body: 'A recording attributed to Serge Cabonge, played at Sibiya\'s bail hearing on 13 October, has him claiming he knows someone who "sits in front" at the commission — a person he describes as the judge president of one of the country\'s largest courts, who he says wanted a criminal case involving his girlfriend\'s daughter to go away. One account of the recording also has him saying Sibiya ensured he was never summoned to testify. The commission rejects it outright: spokesperson Jeremy Michaels calls the allegations "false, incoherent, and are not supported by any facts", and says "none of the commissioners or evidence leaders have met, spoken to or know Mr Cabonge", nor has anyone communicated with him directly or through an intermediary. Nothing in the recording has been established, and no one in it is named — not the judge president, not the commission figure. This index will not guess at either, and nobody in the register should be read into them.',
+    people: ['the-commission', 'sibiya'],
+  },
+  {
+    date: '2026-10-15',
+    strand: 'legal',
+    certainty: 'documented',
     title: 'Sibiya bail judgment reserved to 20 October',
     body: 'Magistrate Hleziphi Mkhasibe reserves judgment on Sibiya\'s bail application to Tuesday 20 October, saying she needs more time to consider the volume of documents put before her. He stays in custody at Kgosi Mampuru until then. Opposing release, the state argued he could flee the country, intimidate witnesses or interfere with evidence, and alleged that he threatened the father of the 16-year-old he is accused of grooming and that people linked to him tried to persuade a complainant to drop the charges. Those are the prosecution\'s submissions in a bail hearing, not findings, and the defence disputes them. None of this is commission evidence; it is recorded because it is why a central figure in the inquiry cannot be called.',
     people: ['sibiya'],
@@ -47,7 +55,7 @@ export const timeline = [
     strand: 'hearings',
     certainty: 'documented',
     title: 'Commission sits behind closed doors; public hearings paused',
-    body: 'The commission moves to in-camera sittings to take evidence that cannot be aired because of ongoing investigations or confidential material. The chair rules that a witness identified only as Witness S, a Crime Intelligence officer, must give evidence in closed session, and bars publication of that witness\'s identity, occupation or anything that could reveal it. Spokesperson Jeremy Michaels says that "due to security considerations, the Commission will not be releasing details of the appearances of in-camera witnesses", so this index cannot record who testified or what was said during this period — a gap in the record, not an absence of proceedings. Public hearings are reported to resume in November.',
+    body: 'The commission moves to in-camera sittings to take evidence that cannot be aired because of ongoing investigations or confidential material. The chair rules that a witness identified only as Witness S, a Crime Intelligence officer, must give evidence in closed session, and bars publication of that witness\'s identity, occupation or anything that could reveal it. Spokesperson Jeremy Michaels says that "due to security considerations, the Commission will not be releasing details of the appearances of in-camera witnesses", so this index cannot record who testified or what was said during this period — a gap in the record, not an absence of proceedings. The commission says public hearings resume on 9 November, after the 4 November local elections, around which it says livestreaming and media coverage would be difficult to run.',
     people: ['the-commission', 'madlanga'],
   },
   {
