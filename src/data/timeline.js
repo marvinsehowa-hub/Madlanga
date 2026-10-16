@@ -27,6 +27,14 @@ export const timeline = [
     people: ['carrim', 'the-commission'],
   },
   {
+    date: '2026-09-07',
+    strand: 'legal',
+    certainty: 'approx',
+    title: 'Commission moves from minded to decided on charging Carrim',
+    body: 'A clip published to the inquiry feed is titled "The Madlanga Commission of Inquiry will lay criminal charges against Suliman Carrim" — the step past August\'s statement that it was merely minded to refer him. The date here is derived from the clip\'s relative publication age and is accurate to within about two weeks; no clip breaking out what was said has been published, so the decision is recorded from the title alone. It is the link between the 14 August no-show and the arrest five weeks later.',
+    people: ['carrim', 'the-commission'],
+  },
+  {
     date: '2026-08-14',
     strand: 'hearings',
     certainty: 'documented',
