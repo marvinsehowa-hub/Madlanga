@@ -1376,12 +1376,15 @@ export const people = [
     org: 'SAPS',
     category: 'witness',
     severity: null,
-    status: 'Testified (Oct 2025)',
+    status:
+      'Testified (Oct 2025). Suspended Apr 2026 over charges since withdrawn; reinstated 16 Oct 2026',
     summary:
-      'The national police commissioner, who gave evidence on the instruction to close the task team and on his interactions with the minister.',
+      'The national police commissioner, who gave evidence on the instruction to close the task team and on his interactions with the minister. He spent six months on precautionary suspension over a criminal case that was then dropped, and was reinstated in October 2026.',
     allegations: [],
     notes: [
       'Described Minister Mchunu becoming "visibly angry" - "it was my first time seeing a Minister angry".',
+      'Charged by IDAC on 4 May 2026 with four counts under the Public Finance Management Act, over the police health-services tender held by Matlala, and suspended in April after his first court appearance. The national director of public prosecutions instructed on 15 September that the charges be withdrawn following a review of IDAC\'s case, and the Pretoria Magistrate\'s Court withdrew them on 22 September. A withdrawal is not an acquittal - the allegations were never tested - but the prosecution is over.',
+      'Reinstated by President Ramaphosa on 16 October 2026 and back to full duties on 19 October. Lt-Gen Puleng Dimpane acted as national commissioner in the interim.',
     ],
     matchers: ['masemola'],
   },

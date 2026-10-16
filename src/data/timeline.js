@@ -19,6 +19,30 @@ export const STRANDS = {
 
 export const timeline = [
   {
+    date: '2026-10-16',
+    strand: 'legal',
+    certainty: 'documented',
+    title: 'Masemola reinstated as national police commissioner',
+    body: 'President Ramaphosa lifts Gen Fannie Masemola\'s precautionary suspension and returns him to full duties from Monday 19 October, ending six months out of office. Lt-Gen Puleng Dimpane, who acted in his place, is thanked for her service. Masemola is a commission witness rather than a subject of it — he gave evidence in October 2025 on the instruction to close the task team — and the case that removed him was a separate prosecution that has since collapsed.',
+    people: ['masemola', 'ramaphosa'],
+  },
+  {
+    date: '2026-09-22',
+    strand: 'legal',
+    certainty: 'documented',
+    title: 'Charges against Masemola withdrawn',
+    body: 'The Pretoria Magistrate\'s Court formally withdraws the PFMA charges against Masemola. The national director of public prosecutions had instructed on 15 September that they be dropped, following a review of the case IDAC had brought. A withdrawal is not an acquittal — nothing was tested and no finding was made either way — but the prosecution ends here, and it is what makes his reinstatement possible.',
+    people: ['masemola'],
+  },
+  {
+    date: '2026-05-04',
+    strand: 'legal',
+    certainty: 'documented',
+    title: 'IDAC charges the national police commissioner',
+    body: 'The Independent Directorate Against Corruption charges Gen Fannie Masemola on four counts under the Public Finance Management Act, over the police health-services tender held by Vusimuzi "Cat" Matlala — the same contract that runs through the inquiry\'s own evidence. He had been placed on precautionary suspension in April after his first appearance in the Pretoria Magistrate\'s Court. The charges are withdrawn four and a half months later.',
+    people: ['masemola', 'matlala'],
+  },
+  {
     date: '2026-10-15',
     strand: 'legal',
     certainty: 'documented',
