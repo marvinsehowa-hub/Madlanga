@@ -273,13 +273,13 @@ export const people = [
     category: 'accused',
     severity: 'central',
     status:
-      'Resigned from SAPS 12 Oct 2026, which SAPS treats as a dishonourable discharge; in custody, criminal case continuing',
+      'Resigned from SAPS 12 Oct 2026, which SAPS treats as a dishonourable discharge; refused bail 20 Oct, back in court 24 Nov',
     appearance: {
       status: 'in-custody',
-      date: '2026-09-29',
-      clip: 'ZEs9dfqaV1Q',
+      date: '2026-10-20',
+      clip: 'kG83ijPxKSU',
       detail:
-        'Now a criminal defendant in his own right rather than only a commission witness. The criminal case is separate from the commission and is not about the PKTT: he was arrested on 21 September 2026 and faces charges in the Randburg Magistrate\'s Court reported as rape, sexual grooming, human trafficking and negligent possession of a firearm. He denies them and none has been tested at trial. Bail judgment was reserved on 15 October to 20 October, so he remains in custody at Kgosi Mampuru. It is recorded here only to explain that custody: the commission has heard nothing about these charges.',
+        'Now a criminal defendant in his own right rather than only a commission witness. The criminal case is separate from the commission and is not about the PKTT: he was arrested on 21 September 2026 and faces charges in the Randburg Magistrate\'s Court reported as rape, sexual grooming, human trafficking and negligent possession of a firearm. He denies them — he disputes the grooming allegations and says the encounter with the 18-year-old was consensual — and none has been tested at trial. On 20 October Magistrate Hleziphi Mkhasibe refused him bail, finding he had not shown the exceptional circumstances that would justify release, and citing a likelihood that he would interfere with witnesses or evidence: "He destroyed evidence, threatened the witnesses." He stays in custody and returns to court on 24 November for further investigation. It is recorded here only to explain that custody: the commission has heard nothing about these charges.',
     },
     summary:
       'Accused of carrying out the instruction to close the PKTT and of taking possession of its case dockets, and placed at the centre of questions about interference in a live murder investigation. By late September 2026 the suspended deputy national commissioner was himself in custody on unrelated criminal charges. On 12 October 2026 he resigned from the police shortly after his disciplinary hearing opened, ending those proceedings before any of the seven charges against him were tested; SAPS regards the departure as a dishonourable discharge.',
@@ -845,12 +845,12 @@ export const people = [
     category: 'accused',
     severity: 'named',
     status:
-      'Gave evidence March 2026; did not return for further questioning. Arrested 15 Oct 2026 over the non-appearance',
+      'Gave evidence March 2026; did not return for further questioning. Charged under the Commissions Act; bail judgment due 28 Oct',
     appearance: {
       status: 'arrested',
       date: '2026-10-15',
       detail:
-        'He gave evidence in March 2026, then did not come back for further questioning. After a run of postponement requests on medical grounds, the chair refused an indefinite postponement on 29 July and ordered him to appear in person on 14 August, with any further delay conditional on his agreeing to be examined by a jointly chosen specialist. He did not appear on 14 August and declined the independent examination, filing a further report from his own doctor instead; the commission said it was minded to refer him for prosecution. He was arrested on the evening of 15 October at OR Tambo, with his wife, about to board a flight to Dubai, and appeared in the Pretoria Magistrate\'s Court the next day charged with contravening the Commissions Act over the repeated non-appearance. Bail was not decided: the state asked for time to check a return ticket he produced in court, his counsel Hendrik Potgieter opposed the delay, and the application was put over to 19 October. He is held at Kgosi Mampuru. Nothing against him has been tested, and the charge is about not attending — not about the subject matter of his evidence.',
+        'He gave evidence in March 2026, then did not come back for further questioning. After a run of postponement requests on medical grounds, the chair refused an indefinite postponement on 29 July and ordered him to appear in person on 14 August, with any further delay conditional on his agreeing to be examined by a jointly chosen specialist. He did not appear on 14 August and declined the independent examination, filing a further report from his own doctor instead; the commission said it was minded to refer him for prosecution. He was arrested on the evening of 15 October at OR Tambo, with his wife, about to board a flight to Dubai, and appeared in the Pretoria Magistrate\'s Court the next day charged with contravening the Commissions Act over the repeated non-appearance. Bail has twice gone undecided: on 16 October the state asked for time to check a return ticket he produced, and on 19 October Magistrate John Curlewis put judgment off again to 28 October, wanting a transcript of his commission evidence after the state argued he had tailored his account of his health, the trip and his failure to tell anyone he was leaving. Investigators say they found a return ticket booked for 28 October; the defence says his wife held it. His counsel Hendrik Potgieter has put up R50,000, citing no previous convictions and settled business ties here. He is held at Kgosi Mampuru. Nothing against him has been tested, and the charge is about not attending — not about the subject matter of his evidence.',
     },
     summary:
       'Told the commission that Matlala and Mogotsi had "played" him, and described a loan of around R10 million to Matlala, whose company held the disputed SAPS health-services contract. His legal team had a heated exchange with the chair. He never returned for further questioning, and by October 2026 his non-appearance had become the subject of a criminal arrest.',
@@ -915,16 +915,24 @@ export const people = [
   },
   {
     id: 'sindane',
-    name: 'Sindane',
-    role: 'Named in evidence led by the commission',
+    name: 'Oupa Bafana Sindane',
+    aka: '"King of the Sky" — taxi boss',
+    role: 'Taxi industry figure; subpoenaed witness',
     org: '—',
     category: 'accused',
     severity: 'implicated',
-    status: 'Named in WhatsApp evidence (28 Sep 2026)',
+    status:
+      'Subpoenaed but never appeared; his WhatsApp messages were read in his absence (28 Sep 2026)',
+    appearance: {
+      status: 'subpoena-ignored',
+      date: '2026-09-28',
+      detail:
+        'Subpoenaed by the commission, he did not appear. The chair dismissed his challenge to the subpoena, finding he had left it until late in the process, and his messages were put before the commission while he was absent — evidence he was not there to answer. A second attempt to interdict the commission was struck from the court roll in early October, no papers having been filed.',
+    },
     // Surfaced inside the evidence described in a clip, never in a clip title.
     evidenceOnly: true,
     summary:
-      'Central to the WhatsApp material evidence leader Adv Mathew Chaskalson put before the commission on 28 September 2026, concerning who was communicating with whom and under what contact names.',
+      'A Mpumalanga taxi boss, central to the WhatsApp material evidence leader Adv Mathew Chaskalson put before the commission on 28 September 2026, concerning who was communicating with whom and under what contact names. He was subpoenaed and never came. Separately, he and Sibanyoni are among four men facing extortion and money-laundering charges in the Delmas Magistrate\'s Court; all four are out on R70,000 bail each and the trial now sits in April 2027.',
     allegations: [
       {
         what: 'Forwarded a press statement regarding "Kwagga 20" to a Sgt Mthumunye, having saved that number under the name of Major-General Botsotso Moukangwe. Chaskalson told the commission that when the number was traced it was Moukangwe.',
@@ -955,7 +963,8 @@ export const people = [
     org: '—',
     category: 'accused',
     severity: 'implicated',
-    status: 'Gave evidence 29–30 Sep 2026; excused after a closing statement',
+    status:
+      'Gave evidence 29–30 Sep 2026. Separately on trial for extortion with three others; case postponed to 20 Apr 2027, on R70,000 bail',
     appearance: {
       status: 'appeared',
       date: '2026-09-30',
@@ -971,7 +980,7 @@ export const people = [
         by: 'Adv Mathew Chaskalson (evidence leader)',
         forum: 'Madlanga Commission',
         response:
-          'He appeared before the commission the next day; his answers are not in the published clip record.',
+          'He told the commission that izinkabi means the men who protect taxi bosses and ranks, not contract killers, and denied supporting taxi violence. He also challenged the use of the phone material itself, calling it an "absolute abuse and open-ended violation" of his privacy, and said Sindane was acting on his own in sending a threatening message.',
         basis: 'video',
         presented: '2026-09-28',
         clip: 'ugFYG1OgWtI',
@@ -1384,7 +1393,7 @@ export const people = [
     notes: [
       'Described Minister Mchunu becoming "visibly angry" - "it was my first time seeing a Minister angry".',
       'Charged by IDAC on 4 May 2026 with four counts under the Public Finance Management Act, over the police health-services tender held by Matlala, and suspended in April after his first court appearance. The national director of public prosecutions instructed on 15 September that the charges be withdrawn following a review of IDAC\'s case, and the Pretoria Magistrate\'s Court withdrew them on 22 September. A withdrawal is not an acquittal - the allegations were never tested - but the prosecution is over.',
-      'Reinstated by President Ramaphosa on 16 October 2026 and back to full duties on 19 October. Lt-Gen Puleng Dimpane acted as national commissioner in the interim.',
+      'Reinstated by President Ramaphosa on 16 October 2026 and back to full duties on 19 October, saying on his return that it was about putting the police back to work. Lt-Gen Puleng Dimpane acted as national commissioner in the interim.',
     ],
     matchers: ['masemola'],
   },

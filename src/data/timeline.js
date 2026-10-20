@@ -19,6 +19,38 @@ export const STRANDS = {
 
 export const timeline = [
   {
+    date: '2026-10-20',
+    strand: 'legal',
+    certainty: 'documented',
+    title: 'Sibiya refused bail',
+    body: 'Magistrate Hleziphi Mkhasibe refuses Sibiya bail, finding he has not shown the exceptional circumstances that would justify release, and that the state established a likelihood he would interfere with witnesses or destroy evidence — "He destroyed evidence, threatened the witnesses," she said, pointing to allegations that he wiped his phone and asked the 16-year-old to delete conversations. A condition barring him from using a phone was rejected as unmonitorable. He remains in custody and returns on 24 November for further investigation. He denies the charges, says the encounter with the 18-year-old was consensual, and nothing has been tried. The NPA welcomed the ruling. None of this is commission evidence.',
+    people: ['sibiya'],
+  },
+  {
+    date: '2026-10-20',
+    strand: 'legal',
+    certainty: 'documented',
+    title: 'Sibanyoni and Sindane back in the dock at Delmas',
+    body: 'Joe "Ferrari" Sibanyoni, Oupa Bafana Sindane, Daniel Masilela and Philemon Msiza appear briefly in the Delmas Magistrate\'s Court on charges of extortion and money laundering — allegations that more than R2 million was extorted from a road-building contractor over a construction tender, with Sindane accused of threatening to halt the project if he was not paid. Prosecutors ask for more time; the magistrate puts the matter over six months to 20 April 2027 and orders the state to hand over the complete docket by then. Adv Shaun Abrahams, for Sibanyoni, asks that the postponement be final, having complained before that no completed charge sheet was produced. The prosecutor told the court he has received threats connected to the case. All four remain free on R70,000 bail each. This is a separate prosecution, not a commission proceeding, and it is recorded because two of the accused are figures in the inquiry\'s own evidence.',
+    people: ['sibanyoni', 'sindane'],
+  },
+  {
+    date: '2026-10-19',
+    strand: 'legal',
+    certainty: 'documented',
+    title: 'Carrim bail judgment put off to 28 October',
+    body: 'Magistrate John Curlewis declines to rule on Carrim\'s bail and sets judgment for 28 October, wanting a transcript of his evidence to the commission first. The state argues he tailored his account — of his health, of the trip, and of not telling anyone he was leaving — and opposes release as a flight risk who might interfere with witnesses or evidence. Investigators say they traced a return ticket booked for 28 October, the same day as the ruling; the defence says his wife held it. His counsel offers R50,000, citing no previous convictions and settled business ties in the country. He stays in custody meanwhile, three weeks into a charge about attendance.',
+    people: ['carrim'],
+  },
+  {
+    date: '2026-10-19',
+    strand: 'legal',
+    certainty: 'documented',
+    title: 'Masemola back at his desk',
+    body: 'Gen Fannie Masemola resumes full duties as national commissioner, six months after being suspended, saying his return is about putting the police back to work.',
+    people: ['masemola'],
+  },
+  {
     date: '2026-10-16',
     strand: 'legal',
     certainty: 'documented',
