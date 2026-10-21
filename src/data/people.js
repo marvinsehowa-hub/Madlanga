@@ -601,6 +601,32 @@ export const people = [
     matchers: ['magane', 'marumo magane'],
   },
   {
+    id: 'mashaba',
+    name: 'Samuel Mashaba',
+    aka: 'Gauteng traffic police chief',
+    role: 'Chief Director, Gauteng Traffic Police',
+    org: 'Gauteng Provincial Government',
+    category: 'witness',
+    severity: null,
+    status: 'Testified June 2026; suspended after; died 13 Oct 2026',
+    appearance: {
+      status: 'appeared',
+      date: '2026-06-11',
+      clip: '5D9sfznuW0A',
+      detail:
+        'Questioned about the 2021 Aeroton seizure — more than 700kg of cocaine recovered from a warehouse south of Johannesburg. He was placed on precautionary suspension after giving evidence, and the disciplinary process was never completed.',
+    },
+    summary:
+      'The Gauteng traffic police chief, questioned over the Aeroton cocaine seizure and pressed by the chair during his evidence. He was suspended after testifying and died on 13 October 2026 at Netcare Milpark Hospital, where he had been receiving care; the cause has not been made public. Nothing was ever decided about him: the commission made no finding, the criminal case arising from the Aeroton bust was withdrawn by the NPA, and his disciplinary process never ran its course. He can no longer answer anything said about him, and what is recorded here is questioning put to him, not conduct established against him.',
+    allegations: [],
+    notes: [
+      'Adv Segeels-Ncube pressed him on the identity of a person referred to as "DD" during his evidence.',
+      'The chair told him during questioning: "Please don\'t use me as your excuse."',
+      'Premier Panyaza Lesufi paid tribute after his death.',
+    ],
+    matchers: ['samuel mashaba', 'mashaba'],
+  },
+  {
     id: 'maphosho',
     name: 'Takalani Zelda Maphosho',
     role: 'Witness in the Aeroton matter',
@@ -648,12 +674,13 @@ export const people = [
   },
   {
     id: 'senona',
-    name: 'Gen Senona',
+    name: 'Maj-Gen Lesetja Senona',
     role: 'SAPS general',
     org: 'SAPS',
     category: 'accused',
     severity: 'named',
-    status: 'Ordered to attend hearings (June 2026)',
+    status:
+      'Among the 14 referred for criminal investigation (Jan 2026); ordered to attend hearings (June 2026)',
     appearance: {
       status: 'ordered',
       date: '2026-06-05',

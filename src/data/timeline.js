@@ -19,6 +19,22 @@ export const STRANDS = {
 
 export const timeline = [
   {
+    date: '2026-10-13',
+    strand: 'safety',
+    certainty: 'documented',
+    title: 'Samuel Mashaba dies',
+    body: 'Samuel Mashaba, the Gauteng traffic police chief questioned in June about the Aeroton cocaine seizure, dies at Netcare Milpark Hospital, where he had been receiving care. The cause has not been made public, and nothing connects his death to the inquiry. He had been suspended after giving evidence and the disciplinary process was never completed; the criminal case arising from the Aeroton bust was withdrawn by the NPA, and the commission made no finding about him. Premier Panyaza Lesufi paid tribute. He is recorded here because he gave evidence and can no longer answer anything said about it.',
+    people: ['mashaba', 'the-commission'],
+  },
+  {
+    date: '2026-01-29',
+    strand: 'legal',
+    certainty: 'documented',
+    title: 'Fourteen officials referred for criminal investigation',
+    body: 'Acting on the commission\'s first interim report, the Presidency names fourteen people against whom it says there is prima facie evidence of wrongdoing, to be investigated by a dedicated task team: five SAPS officials, among them Maj-Gen Lesetja Senona, and nine serving and former employees of the Ekurhuleni metro and its police department. The Police Minister and National Commissioner are directed to stand the team up, its head reporting to the National Commissioner. Prima facie evidence is a threshold for investigating, not a finding of guilt, and the commission said so. This is the machinery that later arrests Carrim at OR Tambo — the referrals moving from paper into enforcement.',
+    people: ['senona', 'the-commission', 'ramaphosa'],
+  },
+  {
     date: '2026-10-20',
     strand: 'legal',
     certainty: 'documented',
@@ -135,7 +151,7 @@ export const timeline = [
     strand: 'hearings',
     certainty: 'documented',
     title: 'A sitting day with nothing published',
-    body: 'The commission registers Day 183 on its own hearing index. Like Day 182 on 6 October, it carries no videos, no transcript, no statements — zero materials. The closed-door sittings are still being numbered as hearing days, so the inquiry has not paused; what has paused is the public record of it. The only in-camera witness the commission has named is Witness S, a Crime Intelligence officer, and it has said it will not identify the others. Days 182 and 183 are therefore real sittings this index can count but cannot describe.',
+    body: 'The commission registers Day 183 on its own hearing index. Like Day 182 on 6 October, it carries no videos, no transcript, no statements — zero materials. A third, Day 184 on 14 October, appears on the index only a week later, so the count of closed-door sittings lags behind the sittings themselves. The inquiry has not paused; what has paused is the public record of it. The only in-camera witness the commission has named is Witness S, a Crime Intelligence officer, and it has said it will not identify the others. Days 182 to 184 are therefore real sittings this index can count but cannot describe.',
     people: ['the-commission'],
   },
   {
