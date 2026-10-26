@@ -19,6 +19,22 @@ export const STRANDS = {
 
 export const timeline = [
   {
+    date: '2026-10-23',
+    strand: 'legal',
+    certainty: 'approx',
+    title: 'Mogotsi criminal case put off to 13 November',
+    body: 'The criminal case against Brown Mogotsi is postponed to 13 November. The date here comes from the publication age of the clip reporting it, so it is good to within about two weeks; the clip carries no breakdown of what was said in court.',
+    people: ['mogotsi'],
+  },
+  {
+    date: '2026-10-21',
+    strand: 'hearings',
+    certainty: 'documented',
+    title: 'One public morning: can the intelligence witness be heard?',
+    body: 'The commission comes out from behind closed doors for a single morning — Day 185, its first sitting since the recess to publish anything at all. The argument is not about evidence but about access: the evidence leaders want Dr Ntandazo Sifolo, acting coordinator of the National Intelligence Co-ordinating Committee, heard in camera because much of his material is classified. Media houses including amaBhungane, Daily Maverick and Media24 oppose a closed hearing. Adv Chaskalson offers a middle course — public testimony with only specifically identified sensitive passages taken in private. The chair reserves the ruling. It is later reported that the evidence leaders were directed to approach Sifolo by 23 October so that NICOC could clear particular documents for public use, though the date of that direction is not established here. Audio and a transcript of the sitting are published.',
+    people: ['sifolo', 'chaskalson', 'the-commission'],
+  },
+  {
     date: '2026-10-13',
     strand: 'safety',
     certainty: 'documented',

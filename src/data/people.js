@@ -229,7 +229,7 @@ export const people = [
     org: 'Private sector',
     category: 'accused',
     severity: 'central',
-    status: 'Testified; declined to answer key questions',
+    status: 'Testified; declined to answer key questions. Criminal case postponed to 13 Nov 2026',
     summary:
       'Alleged intermediary between Matlala and political principals. When called before the commission he repeatedly refused to answer, invoking self-incrimination, and his legal team clashed with the chair.',
     allegations: [
@@ -625,6 +625,33 @@ export const people = [
       'Premier Panyaza Lesufi paid tribute after his death.',
     ],
     matchers: ['samuel mashaba', 'mashaba'],
+  },
+  {
+    id: 'sifolo',
+    name: 'Dr Ntandazo Sifolo',
+    role: 'Acting Coordinator, National Intelligence Co-ordinating Committee',
+    org: 'NICOC',
+    category: 'witness',
+    severity: null,
+    status: 'Due to testify; ruling reserved on whether he is heard in public',
+    appearance: {
+      status: 'postponed',
+      date: '2026-10-21',
+      detail:
+        'He was due to begin giving evidence on 13 October. The evidence leaders applied to have him heard in camera, much of his material being classified intelligence documents. The commission sat in public on 21 October to argue the point — media houses including amaBhungane, Daily Maverick and Media24 opposing a closed hearing — and reserved its ruling. Adv Chaskalson proposed a middle course: that Sifolo testify in public, with only specifically identified sensitive passages heard behind closed doors. He is a witness on the commission\'s own schedule, not a person accused of anything.',
+    },
+    // Named on the commission's own hearing index for Day 185, not in any clip
+    // title - the 21 October streams are titled by date alone. Same practical
+    // effect as the evidence-only cases, so it carries the same flag: no title
+    // match is expected, and the reverse check will say so if that changes.
+    evidenceOnly: true,
+    summary:
+      'The acting head of the body that co-ordinates South Africa\'s intelligence services, and the subject of the only public sitting during the commission\'s closed-door period — an argument not about what he would say but about whether the public would be allowed to hear it.',
+    allegations: [],
+    notes: [
+      'The fight over his evidence is an open-justice question rather than an allegation against him: the commission has published audio and a transcript for the sitting, but his testimony itself has not begun.',
+    ],
+    matchers: ['sifolo', 'ntandazo sifolo'],
   },
   {
     id: 'maphosho',
