@@ -392,7 +392,7 @@ export const people = [
     category: 'accused',
     severity: 'implicated',
     status:
-      'Appeared 6 Oct 2026 but did not testify; postponed to a date yet to be determined. Subpoena finding of 28 Sep 2026 stands',
+      'Still has not given evidence; testimony postponed indefinitely. Separately charged over a 2018 assault, on R10,000 bail (30 Oct 2026)',
     appearance: {
       status: 'postponed',
       date: '2026-10-06',
@@ -401,7 +401,7 @@ export const people = [
         "On 28 September 2026 the chair found the subpoena had been lawfully issued and that Khan had failed to comply with it, directing the commission's secretary to pursue charges. He then appeared remotely and in camera on 6 October to be questioned about evidence led in his absence, but did not testify: an uncle-in-law of his had been shot dead on the R21 the night before, and the commission said only that he was \"not in a position to testify today\". His evidence is postponed to a date yet to be determined. He has still never given evidence, more than a year after first being named.",
     },
     summary:
-      'Named on Day 3 of the hearings in relation to a police drug operation that was allegedly foiled, and again in 2026 when a witness was ordered to clarify a remark about him.',
+      'Named on Day 3 of the hearings in relation to a police drug operation that was allegedly foiled, and again in 2026 when a witness was ordered to clarify a remark about him. He has never given evidence. Separately, he was charged in October 2026 with Adv Andrea Johnson over a 2018 assault — a different matter from his failure to attend, and not evidence of it.',
     allegations: [
       {
         what: 'Alleged role in foiling a police drug operation.',
@@ -435,7 +435,8 @@ export const people = [
         what: 'The commission said it will lay criminal charges against him over his failure to comply with the subpoena to appear.',
         by: 'Madlanga Commission',
         forum: 'Madlanga Commission',
-        response: 'Nothing from Khan or his team is on the published record.',
+        response:
+          'Nothing from Khan or his team is on the published record. No charge over the subpoena has been reported since; the case he was arrested on in October 2026 is a separate 2018 matter.',
         basis: 'video',
         presented: '2026-09-28',
         clip: 'cYtnoSGmGO8',
@@ -446,13 +447,14 @@ export const people = [
   {
     id: 'andrea-johnson',
     name: 'Adv Andrea Johnson',
-    role: 'Head of the Investigating Directorate Against Corruption (IDAC)',
-    org: 'NPA / IDAC',
+    role: 'Former head of the Investigating Directorate Against Corruption (IDAC)',
+    org: 'NPA / IDAC (former)',
     category: 'accused',
     severity: 'implicated',
-    status: 'Resigned; returned to face further questioning (July-Aug 2026)',
+    status:
+      'Resigned; returned to face further questioning (July–Aug 2026). Criminally charged 30 Oct 2026, on R10,000 bail',
     summary:
-      'The most sustained line of cross-examination in the 2026 hearings. Put under pressure over IDAC\'s handling of matters raised by Mkhwanazi and over evidence she previously gave to Parliament. She resigned and then returned to the witness box.',
+      'The most sustained line of cross-examination in the 2026 hearings. Put under pressure over IDAC\'s handling of matters raised by Mkhwanazi and over evidence she previously gave to Parliament. She resigned and then returned to the witness box. In October 2026 the head of the state\'s anti-corruption directorate became a criminal defendant herself, charged alongside Feroz Khan over a 2018 matter following an investigation by the task team the commission\'s own recommendations created.',
     allegations: [
       {
         what: 'Put to her by evidence leader Adv Sello that she "lied to the Ad Hoc Committee".',
@@ -482,6 +484,9 @@ export const people = [
         presented: '2026-07-24',
         clip: 'i2CVmovBolc',
       },
+    ],
+    notes: [
+      'Charged on 30 October 2026, with Feroz Khan, in the Pretoria Magistrate\'s Court: defeating the ends of justice, assault with intent to cause grievous bodily harm, and contraventions of the NPA Act. The state alleges that on 4 July 2018 the contents of an assault docket reached her — she was then a Deputy Director of Public Prosecutions — and were forwarded to Khan before a decision had been taken on whether to charge him, and that she had an official delete an email after printing it. The charges arise from the Commission\'s Recommendations Task Team, not from her evidence to the commission. Granted R10,000 bail, passport to be surrendered; the case resumes on 2 February 2027. Nothing has been tested and she has not pleaded.',
     ],
     matchers: ['andrea johnson', 'andreajohnson', 'idac'],
   },
@@ -899,12 +904,12 @@ export const people = [
     category: 'accused',
     severity: 'named',
     status:
-      'Gave evidence March 2026; did not return for further questioning. Charged under the Commissions Act; bail judgment due 28 Oct',
+      'Gave evidence March 2026; never completed it. Granted R100,000 bail on the Commissions Act charge (28 Oct 2026); held on a separate Musina case',
     appearance: {
       status: 'arrested',
-      date: '2026-10-15',
+      date: '2026-10-28',
       detail:
-        'He gave evidence in March 2026, then did not come back for further questioning. After a run of postponement requests on medical grounds, the chair refused an indefinite postponement on 29 July and ordered him to appear in person on 14 August, with any further delay conditional on his agreeing to be examined by a jointly chosen specialist. He did not appear on 14 August and declined the independent examination, filing a further report from his own doctor instead; the commission said it was minded to refer him for prosecution. He was arrested on the evening of 15 October at OR Tambo, with his wife, about to board a flight to Dubai, and appeared in the Pretoria Magistrate\'s Court the next day charged with contravening the Commissions Act over the repeated non-appearance. Bail has twice gone undecided: on 16 October the state asked for time to check a return ticket he produced, and on 19 October Magistrate John Curlewis put judgment off again to 28 October, wanting a transcript of his commission evidence after the state argued he had tailored his account of his health, the trip and his failure to tell anyone he was leaving. Investigators say they found a return ticket booked for 28 October; the defence says his wife held it. His counsel Hendrik Potgieter has put up R50,000, citing no previous convictions and settled business ties here. He is held at Kgosi Mampuru. Nothing against him has been tested, and the charge is about not attending — not about the subject matter of his evidence.',
+        'He was served a Rule 10.6 notice in October 2025 and gave evidence on 9 and 10 March 2026, but never completed it: he missed a return date in April on medical grounds and did not attend summonses in May, June and July. The chair refused an indefinite postponement on 29 July and ordered him to appear on 14 August, any further delay conditional on examination by a jointly chosen specialist. He did not appear and declined the examination, filing another report from his own doctor; the commission said it was minded to refer him for prosecution. He was arrested on 15 October at OR Tambo on a one-way ticket to Saudi Arabia, having told the court he was travelling to Dubai and Pakistan on pilgrimage, and later producing a return ticket. On 28 October the Pretoria Magistrate\'s Court granted him R100,000 bail: the magistrate held that he had contravened the subpoena without sufficient cause, but that this did not establish "a likelihood that the applicant will attempt to evade trial if released subject to appropriately restrictive bail conditions". He must surrender his passport, report to the Mafikeng police station every Monday, and present himself to the commission within 48 hours of release to arrange his next appearance. He stayed in custody regardless, on an unrelated Musina case of attempted theft, fraud and money laundering over two bank-financed vehicles at the Beitbridge border post in July 2026, in which he was named an accused on 21 October alongside two employees. Nothing in either matter has been tested, and the Commissions Act charge is about not attending — not about the subject matter of his evidence.',
     },
     summary:
       'Told the commission that Matlala and Mogotsi had "played" him, and described a loan of around R10 million to Matlala, whose company held the disputed SAPS health-services contract. His legal team had a heated exchange with the chair. He never returned for further questioning, and by October 2026 his non-appearance had become the subject of a criminal arrest.',

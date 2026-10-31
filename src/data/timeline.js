@@ -19,6 +19,22 @@ export const STRANDS = {
 
 export const timeline = [
   {
+    date: '2026-10-30',
+    strand: 'legal',
+    certainty: 'documented',
+    title: 'The former head of IDAC is charged, with Feroz Khan',
+    body: 'Adv Andrea Johnson, until this year the head of the state\'s anti-corruption directorate, and former Maj-Gen Feroz Khan appear in the Pretoria Magistrate\'s Court on charges of defeating the ends of justice, assault with intent to cause grievous bodily harm, and contraventions of the NPA Act. The state alleges that on 26 June 2018 Khan attacked a brigadier under his command at the Erasmuskloof crime intelligence offices, and that a week later the contents of the assault docket reached Johnson, then a Deputy Director of Public Prosecutions, and were forwarded to Khan before any decision to charge him. Each is granted R10,000 bail, Johnson to surrender her passport; the case resumes on 2 February 2027. The arrests came out of the Commission\'s Recommendations Task Team — the body created by the inquiry\'s own interim report — which also arrested Carrim. The charges are not about anything either of them said to the commission, and Khan\'s are not about the subpoena he ignored. Nothing is tested and no plea has been entered.',
+    people: ['andrea-johnson', 'feroz-khan', 'the-commission'],
+  },
+  {
+    date: '2026-10-28',
+    strand: 'legal',
+    certainty: 'documented',
+    title: 'Carrim granted bail — and stays in custody anyway',
+    body: 'The Pretoria Magistrate\'s Court grants Carrim R100,000 bail on the Commissions Act charge. The magistrate finds he contravened the subpoena without sufficient cause, but holds that this does not establish "a likelihood that the applicant will attempt to evade trial if released subject to appropriately restrictive bail conditions", and cautions against using a bail hearing to decide guilt. He must surrender his passport, report to the Mafikeng police station every Monday, and present himself to the commission within 48 hours of release to arrange the appearance he has avoided for most of a year. He remains in custody even so, on an unrelated Musina case — attempted theft, fraud and money laundering over two bank-financed vehicles at the Beitbridge border post in July, in which he was named an accused on 21 October.',
+    people: ['carrim', 'the-commission'],
+  },
+  {
     date: '2026-10-23',
     strand: 'legal',
     certainty: 'approx',
