@@ -638,12 +638,13 @@ export const people = [
     org: 'NICOC',
     category: 'witness',
     severity: null,
-    status: 'Due to testify; ruling reserved on whether he is heard in public',
+    status:
+      'Due to testify; his documents split between public and closed use (29 Oct 2026)',
     appearance: {
       status: 'postponed',
-      date: '2026-10-21',
+      date: '2026-10-29',
       detail:
-        'He was due to begin giving evidence on 13 October. The evidence leaders applied to have him heard in camera, much of his material being classified intelligence documents. The commission sat in public on 21 October to argue the point — media houses including amaBhungane, Daily Maverick and Media24 opposing a closed hearing — and reserved its ruling. Adv Chaskalson proposed a middle course: that Sifolo testify in public, with only specifically identified sensitive passages heard behind closed doors. He is a witness on the commission\'s own schedule, not a person accused of anything.',
+        'He was due to begin giving evidence on 13 October. The evidence leaders applied to have him heard in camera, much of his material being classified intelligence documents. The commission sat in public on 21 October to argue the point — media houses including amaBhungane, Daily Maverick and Media24 opposing a closed hearing — and reserved its ruling. The outcome on 29 October was a split rather than a yes or no: Sifolo agreed that some of his documents may be used in public, and the chair set them out in three schedules. Annexure A material may be used to question witnesses in public but not displayed; Annexure C may be used and displayed at the evidence leader\'s discretion; Annexure B is for private questioning only. The media respondents may still press for more, with a supplementary affidavit due 3 November, the evidence leaders\' answer on 5 November and further argument on 6 November. He is a witness on the commission\'s own schedule, not a person accused of anything.',
     },
     // Named on the commission's own hearing index for Day 185, not in any clip
     // title - the 21 October streams are titled by date alone. Same practical

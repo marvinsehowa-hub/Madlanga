@@ -19,6 +19,14 @@ export const STRANDS = {
 
 export const timeline = [
   {
+    date: '2026-10-29',
+    strand: 'hearings',
+    certainty: 'documented',
+    title: 'The intelligence documents are split, not sealed',
+    body: 'The chair resolves the fight over Dr Sifolo\'s evidence as a division rather than a yes or no. Sifolo agrees that some of his documents may be used in public, and the material is set out in three schedules: Annexure A may be used to question witnesses in open session but not displayed, Annexure C may be used and displayed at the evidence leader\'s discretion, and Annexure B is reserved for questioning behind closed doors. Evidence leaders are directed to hand the respondents\' lawyers the schedules, a redacted version and Sifolo\'s reasons for each restriction. It is close to the middle course Adv Chaskalson proposed on 21 October, and it leaves the media respondents free to press for more: a supplementary affidavit by 3 November, the evidence leaders\' answer by 5 November, further written argument by 6 November. Public hearings resume on 9 November.',
+    people: ['sifolo', 'madlanga', 'chaskalson', 'the-commission'],
+  },
+  {
     date: '2026-10-30',
     strand: 'legal',
     certainty: 'documented',
