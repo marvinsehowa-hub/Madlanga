@@ -12,5 +12,30 @@
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
+    <script>
+    // Visitor stats: self-hosted GoatCounter on maps-box. No cookies, no personal data.
+    (function(){
+      var END = "https://maps-box.tail36d6a8.ts.net/count", SITE = "madlanga";
+      var h = location.hostname;
+      var off = location.protocol === "file:" || h === "localhost" || /^[\d.]+$/.test(h) || h.indexOf(":") > -1;
+      function send(q){
+        if (off) return;
+        q.rnd = Math.random().toString(36).slice(2);
+        var u = END + "?" + Object.keys(q).map(function(k){ return k + "=" + encodeURIComponent(q[k]); }).join("&");
+        var img = new Image(); img.src = u;
+      }
+      // Count an event, e.g. gcEvent("order-whatsapp", "Order sent to WhatsApp")
+      window.gcEvent = function(name, title){ send({p: SITE + "-" + name, t: title || name, e: "true"}); };
+      send({p: "/" + SITE + location.pathname.replace(/^\/Madlanga(?=\/|$)/i, ""), t: document.title, r: document.referrer,
+            s: [screen.width, screen.height, window.devicePixelRatio || 1].join(",")});
+      document.addEventListener("click", function(e){
+        var a = e.target.closest && e.target.closest("a[href]"); if (!a) return;
+        var href = a.getAttribute("href");
+        if (href.indexOf("https://wa.me/") === 0 && a.id !== "sendWa") gcEvent("whatsapp-chat", "WhatsApp chat tapped");
+        else if (href.indexOf("tel:") === 0) gcEvent("call", "Call tapped");
+        else if (href.indexOf("google.com/maps") > -1) gcEvent("directions", "Directions tapped");
+      });
+    })();
+    </script>
   </body>
 </html>

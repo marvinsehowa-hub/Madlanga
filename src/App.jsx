@@ -33,6 +33,8 @@ export default function App() {
   const goTo = useCallback((next) => {
     setPersonId(null);
     setTab(next);
+    // Visitor stats: count which tabs people open (defined in index.html, no-op locally).
+    window.gcEvent?.('tab-' + next, 'Tab: ' + next);
   }, []);
 
   return (
