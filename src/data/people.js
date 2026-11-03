@@ -170,7 +170,7 @@ export const people = [
       date: '2026-08-24',
       clip: '3RS_exbNsU4',
       detail:
-        'Brought before the commission but not questioned. His counsel obtained a stand-down because his lead counsel was absent. No substantive evidence by him to the commission is on the published record.',
+        'Brought before the commission but not questioned. His counsel obtained a stand-down because his lead counsel was absent. No substantive evidence by him to the commission is on the published record. His appearance was then postponed a second time, to 14 December, the chair observing that it was "unacceptable that Matlala was only subpoenaed on the 25th". Reports in early November say he will instead be heard on 9 and 10 November, more than five weeks early, when public hearings resume — the evidence leaders having said he could be called sooner if his criminal trial left a gap. The commission had published nothing confirming those dates, so the December listing remains the only official one.',
     },
     summary:
       "The businessman at the centre of the syndicate allegations. Holder of a large SAPS health-services contract later cancelled, arrested in 2025 on attempted-murder charges, and alleged to have cultivated relationships with senior police officers and politicians. He gave evidence to Parliament's Ad Hoc Committee from prison in December 2025. He came before the Madlanga Commission itself on 24 August 2026, but was not questioned that day: his counsel asked for a stand-down because his lead counsel was absent. No substantive testimony by him to the commission appears in the published record yet.",
@@ -656,6 +656,8 @@ export const people = [
     allegations: [],
     notes: [
       'The fight over his evidence is an open-justice question rather than an allegation against him: the commission has published audio and a transcript for the sitting, but his testimony itself has not begun.',
+      'What the sealed material is about, per the affidavit supporting the in-camera application: the relationship between NICOC and the other intelligence and security structures, and how threats are identified, assessed and reported — specifically threats arising from organised crime and from criminal syndicates infiltrating the criminal justice system. That is the subject of the inquiry itself, which is why the question of hearing it in public was contested.',
+      'Nine documents may be used to question him in open session but not shown, to stop the material being copied.',
     ],
     matchers: ['sifolo', 'ntandazo sifolo'],
   },
