@@ -146,19 +146,30 @@ const text = (t) =>
 function relativeToDate(rel, now = new Date()) {
   if (!rel) return null;
 
-  // YouTube serves two forms and switches between them without warning:
-  // the long one ("3 weeks ago") and a compact one ("12d ago", "2mo ago").
-  // Handle both - a miss here silently yields a null date.
-  // Note `mo` must be tested before `m`, or months parse as minutes.
-  const long = rel.match(/(\d+)\s+(second|minute|hour|day|week|month|year)/i);
+  // YouTube serves several forms and switches between them without warning:
+  // long ("3 weeks ago"), compact ("12d ago", "2mo ago") and half-abbreviated
+  // ("57 min ago", "2 hrs ago"). A miss here silently yields a null date.
+  //
+  // The half-abbreviated form is the one that bit: "57 min ago" matched
+  // neither branch, because the long pattern wanted the whole word "minute"
+  // and the short pattern's word boundary failed on the "i" after "m". It
+  // only shows up on clips a few minutes old, so it stayed invisible until
+  // the commission resumed daily sittings and fresh clips started arriving
+  // mid-sweep.
+  //
+  // Order matters in both alternations: longer words first, so "minute" is
+  // not eaten by "min" and "month" not by "mo".
+  const long = rel.match(
+    /(\d+)\s+(seconds?|secs?|minutes?|mins?|hours?|hrs?|days?|weeks?|months?|years?)\b/i
+  );
   const short = rel.match(/(\d+)\s*(mo|s|m|h|d|w|y)\b/i);
   const m = long ?? short;
   if (!m) return null;
 
   const n = Number(m[1]);
-  const raw = m[2].toLowerCase();
+  const raw = m[2].toLowerCase().replace(/s$/, '');
   const unit = long
-    ? raw
+    ? { sec: 'second', min: 'minute', hr: 'hour' }[raw] ?? raw
     : { s: 'second', m: 'minute', h: 'hour', d: 'day', w: 'week', mo: 'month', y: 'year' }[raw];
   if (!unit) return null;
 
@@ -464,6 +475,31 @@ async function main() {
     console.error('No videos fetched - leaving existing videos.json untouched.');
     process.exit(1);
   }
+  // Repair any record still carrying a null date.
+  //
+  // A record YouTube does not return this run is carried over whole, stale
+  // fields included, so a parser fix cannot reach it until the clip happens
+  // to resurface. But the stored relative age was true on the day the record
+  // was first seen, so it can be re-read against THAT date rather than today.
+  // Doing it here means a parser fix heals the archive on the next run
+  // instead of leaving records permanently undated.
+  let repaired = 0;
+  for (const v of all) {
+    if (v.date || !v.relative || !v.firstSeen) continue;
+    const d = relativeToDate(v.relative, new Date(`${v.firstSeen}T12:00:00Z`));
+    if (d) {
+      v.date = d;
+      v.dateApprox = true;
+      repaired++;
+    }
+  }
+  if (repaired) {
+    console.log(
+      `\nrepaired ${repaired} record(s) that had no date, by re-reading their ` +
+        `stored relative age against the day they were first seen`
+    );
+  }
+
   all.sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''));
   mkdirSync(dirname(OUT), { recursive: true });
   writeFileSync(

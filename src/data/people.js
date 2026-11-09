@@ -164,13 +164,13 @@ export const people = [
     category: 'accused',
     severity: 'central',
     status:
-      'In custody (Kgosi Mampuru); appeared before the commission 24 Aug 2026, questioning stood down',
+      'In custody (Kgosi Mampuru); returned to the witness stand 9 Nov 2026 and was questioned',
     appearance: {
-      status: 'stood-down',
-      date: '2026-08-24',
-      clip: '3RS_exbNsU4',
+      status: 'appeared',
+      date: '2026-11-09',
+      clip: 'IG0PzGUDZwU',
       detail:
-        'Brought before the commission but not questioned. His counsel obtained a stand-down because his lead counsel was absent. No substantive evidence by him to the commission is on the published record. His appearance was then postponed a second time, to 14 December, the chair observing that it was "unacceptable that Matlala was only subpoenaed on the 25th". Reports in early November say he will instead be heard on 9 and 10 November, more than five weeks early, when public hearings resume — the evidence leaders having said he could be called sooner if his criminal trial left a gap. The commission had published nothing confirming those dates, so the December listing remains the only official one.',
+        'Brought before the commission on 24 August but not questioned — his counsel obtained a stand-down because lead counsel was absent — and his appearance was then put off to 14 December, the chair observing that it was "unacceptable that Matlala was only subpoenaed on the 25th". He was in fact called back more than five weeks early, taking the stand on 9 November when public hearings resumed, with a second day listed for the 10th. Adv Hassim led the questioning and the two of them openly disagreed; a clip of the exchange is titled "You said things that are not true because you were not okay". Reports say the questioning was shadowed by an argument over whether statements tied to his collapsed plea-and-sentence agreement in the SAPS health-services tender case could be used at all, the chair having directed on 7 November that both sides file argument of no more than fifteen pages. What he actually answered is not yet in the published clip record beyond those two exchanges.',
     },
     summary:
       "The businessman at the centre of the syndicate allegations. Holder of a large SAPS health-services contract later cancelled, arrested in 2025 on attempted-murder charges, and alleged to have cultivated relationships with senior police officers and politicians. He gave evidence to Parliament's Ad Hoc Committee from prison in December 2025. He came before the Madlanga Commission itself on 24 August 2026, but was not questioned that day: his counsel asked for a stand-down because his lead counsel was absent. No substantive testimony by him to the commission appears in the published record yet.",

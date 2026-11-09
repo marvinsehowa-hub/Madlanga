@@ -19,6 +19,14 @@ export const STRANDS = {
 
 export const timeline = [
   {
+    date: '2026-11-09',
+    strand: 'hearings',
+    certainty: 'documented',
+    title: 'Public hearings resume, with Matlala back on the stand',
+    body: 'The commission sits in public again after five weeks behind closed doors and an election, and it opens with the witness it has waited longest for. Vusimuzi "Cat" Matlala is called more than five weeks ahead of his 14 December listing, with a second day set for the 10th, and is questioned at length by evidence leader Adv Hassim — the two of them disagreeing on the record, in an exchange clipped under the line "You said things that are not true because you were not okay". Nearly nine hours of proceedings are streamed. Reports say the questioning ran under an unresolved argument over whether statements tied to his collapsed plea-and-sentence agreement in the police health-services tender case may be used at all, the chair having ordered written argument of no more than fifteen pages by the Sunday. What he answered is not yet in the published clip record beyond those exchanges. Mchunu, Nhlanhla Mkhwanazi and Dumisani Khumalo are listed to follow under subpoena.',
+    people: ['matlala', 'the-commission'],
+  },
+  {
     date: '2026-10-29',
     strand: 'hearings',
     certainty: 'documented',
